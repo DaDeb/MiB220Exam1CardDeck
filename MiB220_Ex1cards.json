@@ -1,0 +1,1614 @@
+{
+  "flashcards": [
+    {
+      "card_type": "Basic",
+      "front": "Who is considered **'The Father of Microbiology'** and what was his primary achievement?",
+      "back": "Antonie von Leeuwenhoek. He was the first person to observe and describe microorganisms (including bacteria) using powerful lenses he developed.",
+      "mnemonic_image": "A small, angry, bearded gnome peering intensely at his thumbnail through a massive, polished lens.",
+      "source_ref": "1. Historical Pioneers in Microbiology",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What experiment did Louis Pasteur perform to **disprove the theory of spontaneous generation**?",
+      "back": "The **swan-neck flask experiment**. He showed that a sterile broth remained free of microbial growth even when open to the air, as long as dust (and microbes) settled in the curve of the flask's neck.",
+      "mnemonic_image": "A swan's long, curved neck shatters a dirty glass bottle with a loud *POP*.",
+      "source_ref": "1. Historical Pioneers in Microbiology",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What key theory did **Robert Koch** definitively solidify with his work on causative agents of disease?",
+      "back": "The **Germ Theory of Disease**.",
+      "mnemonic_image": "A doctor, dressed in all black, hammering a giant magnifying glass onto a petri dish labeled 'GERMS'.",
+      "source_ref": "1. Historical Pioneers in Microbiology",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Who is known as the **'Father of Modern Epidemiology'** and what disease outbreak did he famously investigate?",
+      "back": "John Snow. He traced the **1854 Broad Street cholera outbreak** in London to a contaminated water pump.",
+      "mnemonic_image": "A man in a snowy white coat pouring blue poison into an old water pump labeled 'BROAD STREET'.",
+      "source_ref": "1. Historical Pioneers in Microbiology",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What did **Alexander Fleming** discover and what was the microorganism responsible for this discovery?",
+      "back": "He discovered the first antibiotic, **penicillin**, by observing the mold *Penicillium notatum*.",
+      "mnemonic_image": "A knight in shining armor fighting a giant, angry blue pencil that keeps spitting green mold.",
+      "source_ref": "1. Historical Pioneers in Microbiology",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The diffraction limit of visible light restricts the maximum **resolution** of **light microscopy** to approximately **{{c1::0.2 micrometers}}**.",
+      "cloze_hint": "Resolution limit of Light Microscopy",
+      "mnemonic_image": "A tiny, blurry house with a roof that only reaches up to a giant, glowing blue ruler marked at 0.2.",
+      "source_ref": "2. Technological Advances in Visualization",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "According to **Structural Prioritization (Rule 2)**, what is the key **limitation** of Light Microscopy's clarity?",
+      "back": "Clear or translucent samples that do not refract light are difficult to observe. This is circumvented by methods like Gram staining.",
+      "mnemonic_image": "A ghostly white, clear glass bowl full of soup that makes a frustrated man cry, causing his tears to stain the glass blue.",
+      "source_ref": "Light Microscopy - Limitations",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Principle** behind **Fluorescence Microscopy**?",
+      "back": "It is a common method for observing both live and dead microorganisms by using **fluorescence** (light emission after absorbing light).",
+      "mnemonic_image": "A dead, glowing jellyfish on a velvet black stage, emitting vibrant, multicolored light when a flashlight hits it.",
+      "source_ref": "Fluorescence Microscopy - Principle",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the core **Advantage** of **Electron Microscopy** over light microscopy?",
+      "back": "Electrons have a much smaller **wavelength** than visible light, increasing the maximum resolution by **100,000-fold** (to 0.1 nanometers).",
+      "mnemonic_image": "A colossal, screaming electron dressed as a tiny, angry, purple toddler who is one hundred thousand times smaller than a lighthouse.",
+      "source_ref": "Electron Microscopy - Advantages",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the key **Distinction/Contrast** in image output between **Light Microscopy** and **Electron Microscopy**?",
+      "back": "* **Light Microscopy:** Images are in full **color** (often from stains).
+* **Electron Microscopy:** Images are inherently **black and white** but can be pseudo-colored for clarity.",
+      "mnemonic_image": "A black-and-white photo of a screaming mime trying to paint a rainbow with a tiny, white paintbrush that only spits out gray dust.",
+      "source_ref": "2. Technological Advances in Visualization",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What do the **Exceptions to Koch's Postulates** concerning **Asymptomatic Carriers** (Postulate 1) and **Universal Infection** (Postulate 3) highlight?",
+      "back": "The postulates assume a microbe is always associated with symptoms and always causes disease upon exposure. The exceptions show:
+* **Asymptomatic Carriers (1):** Organisms (like *M. tuberculosis* in a latent phase) can be present without causing active disease symptoms.
+* **Universal Infection (3):** Immunity/chance means not all exposed individuals become infected.",
+      "mnemonic_image": "A doctor's office is completely empty, with an invisibility cloak hanging on the coat rack (asymptomatic), while a brick wall labeled 'IMMUNITY' blocks all the sick patients outside.",
+      "source_ref": "3. The Germ Theory and Its Framework",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "A limitation of Koch's Postulate **{{c1::2 (Culturing)}}** is that some pathogenic organisms, and all viruses, cannot be grown in a pure laboratory culture.",
+      "cloze_hint": "Koch's Postulate related to culturing",
+      "mnemonic_image": "A tiny, see-through virus is desperately trying to climb into a giant ceramic cup but is repeatedly zapped by a neon yellow force field.",
+      "source_ref": "Exceptions to Koch's Postulates - Postulate 2",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What are the **Three Domains of Life** into which all cellular life is classified?",
+      "back": "Bacteria, Archaea, and Eukarya.",
+      "mnemonic_image": "A three-headed dog, where one head is made of blue static (Archaea), one is a dirty brown mop (Bacteria), and the last is a sparkly queen (Eukarya).",
+      "source_ref": "4. Classification and Characteristics of Microbial Life",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** (Mandate Rule 3) and primary distinction between **Prokaryotes** and **Eukaryotes**?",
+      "back": "**Prokaryotes** (Bacteria and Archaea) lack a nuclear membrane (true nucleus). **Eukaryotes** possess a true, membrane-bound nucleus and other membrane-bound organelles.",
+      "mnemonic_image": "A small, purple jelly bean floating freely in a fishbowl (prokaryote), while a huge, locked safe sits inside a different, luxurious fishbowl (eukaryote).",
+      "source_ref": "Prokaryotes vs. Eukaryotes",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Which group, **Prokaryotes or Eukaryotes**, possess a **Nucleoid** but lack a **Nuclear membrane** and **Mitochondria**?",
+      "back": "Prokaryotes.",
+      "mnemonic_image": "A screaming, half-naked cartoon character running around holding a glowing blue gem (Nucleoid) but is terrified because he can't find his pants (Nuclear Membrane) or his gym equipment (Mitochondria).",
+      "source_ref": "Prokaryotes vs. Eukaryotes (Table)",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the distinction between **Bacteria** and **Archaea**?",
+      "back": "Both are prokaryotic organisms, but **Archaea** are genetically distinct from **Bacteria**, having genomes more closely related to those of eukaryotes.",
+      "mnemonic_image": "A pink blob with a tiny, angry, glowing green hat (Archaea) stands next to a massive, muscular blue wrestler (Bacteria) but secretly points its fingers toward the Queen's palace (Eukarya).",
+      "source_ref": "4. Classification and Characteristics of Microbial Life",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** (Mandate Rule 3) of the **Human Microbiome**?",
+      "back": "The human microbiome is the **vast community of microbes** (including bacteria, fungi, protists, archaea, and viruses) that reside in and on the human body and play crucial roles in health and well-being.",
+      "mnemonic_image": "A human-shaped balloon filled with trillions of tiny, brightly colored jumping fleas that are singing a happy song.",
+      "source_ref": "5. Microbial Ecology and Symbiosis",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** (Mandate Rule 3) of **Mutualism** and provide the example given in the text.",
+      "back": "Mutualism is a symbiotic relationship where **both organisms benefit**. The example is **gut bacteria** that receive shelter and nutrition from their host while contributing to the host's health.",
+      "mnemonic_image": "Two elderly, smiling men sitting in rocking chairs and simultaneously high-fiving each other with a large, steaming turkey between them.",
+      "source_ref": "Symbiotic Relationships - Mutualism",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the core **Distinction/Contrast** between **Obligate Parasites** and **Facultative Parasites**?",
+      "back": "* **Obligate Parasites:** **Require** the host to complete their life cycle (e.g., all viruses).
+* **Facultative Parasites:** **Can complete** their life cycle without a host.",
+      "mnemonic_image": "A sobbing, chained cartoon bug (Obligate) is dragged behind a massive, happy host, while another cartoon bug is casually skipping away from a host that is burning to the ground (Facultative).",
+      "source_ref": "Symbiotic Relationships - Parasitism",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Endosymbiotic Theory**?",
+      "back": "The theory that explains the evolutionary origin of eukaryotic organelles, specifically **mitochondria and chloroplasts**, by suggesting they originated as engulfed prokaryotic cells.",
+      "mnemonic_image": "A giant, slow-moving cell is eating a smaller, screaming cell and the small cell's lunchbox is transforming into a glowing green battery.",
+      "source_ref": "6. Foundational Theories and Modern Applications",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "Evidence for the Endosymbiotic Theory includes the fact that mitochondria possess their own **{{c1::circular chromosomes and ribosomes}}**, features they share with prokaryotes.",
+      "cloze_hint": "Mitochondrial structure shared with prokaryotes",
+      "mnemonic_image": "A tiny, swirling circular rope is arguing with a massive, wiggling tapeworm while they are both wearing the same miniature, plastic hat.",
+      "source_ref": "The Endosymbiotic Theory - Evidence from Mitochondria",
+      "tag": "Historical Foundations and Core Concepts"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The **{{c1::Avery-MacLeod-McCarty}}** experiment of 1944 used the bacterium *Streptococcus pneumoniae* to conclusively demonstrate that DNA is the genetic material of cells.",
+      "cloze_hint": "Experiment that proved DNA is genetic material",
+      "mnemonic_image": "Three men in lab coats (one is wearing a giant purple 'A' on his head) are frantically trying to tie a massive, slippery rope labeled 'DNA' around a sneezing, furry bacterial monster.",
+      "source_ref": "Microbes in Molecular Biology",
+      "tag": "Historical Foundations and Core Concepts"
+    }
+  ]
+}
+{
+  "flashcards": [
+    {
+      "card_type": "Basic",
+      "front": "What are the three **common cellular morphologies** (shapes) of bacteria?",
+      "back": "Cocci (Spherical), Bacilli (Rod-shaped), and Spirilla (Curved/Corkscrew-like spiral).",
+      "mnemonic_image": "A round, red candy (Cocci) is rolled by a long, angry stick (Bacilli), which is being attacked by a twisted, green corkscrew (Spirilla).",
+      "source_ref": "I.A. Common Morphologies and Arrangements",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of the **'Staphylo-'** arrangement in bacterial cells?",
+      "back": "Irregular, grape-like clusters (e.g., Staphylococci).",
+      "mnemonic_image": "A drunken, purple monster stomping on a massive bunch of grapes, squishing them into a messy pile.",
+      "source_ref": "I.A. Common Morphologies and Arrangements",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Identify the **minimum requirements** for any lifeform to be considered a cell.",
+      "back": "A cell wall (or membrane) to contain components, Ribosomes (for protein synthesis), a Genetic Component (for information storage), and the Ability to replicate its genomic material.",
+      "mnemonic_image": "A small, naked baby screaming because it only has four things: a brick wall, a bowl of rice, a library card, and a mirror that clones its reflection.",
+      "source_ref": "I.C. Minimum Requirements for a Cell",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of the **Nucleoid**?",
+      "back": "An irregular, **non-membrane-bound** region in prokaryotes where all the genetic material (the chromosome) is located.",
+      "mnemonic_image": "A large, tangled rope of DNA floating freely inside a cracked, abandoned bird's nest.",
+      "source_ref": "II.A. The Nucleoid and Genetic Material - Definition",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The chromosome of an *E. coli* cell is approximately **{{c1::1,000 times}}** longer than the cell itself, demonstrating its highly condensed state.",
+      "cloze_hint": "Factor difference in chromosome vs. cell length",
+      "mnemonic_image": "A colossal, screaming giant made of coiled wire stretching out over a tiny, miniature world that fits in his hand.",
+      "source_ref": "II.A. The Nucleoid and Genetic Material - Condensation",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of **Plasmids** and what unique characteristic do they possess related to replication?",
+      "back": "Plasmids are circular, much smaller extrachromosomal DNA in bacteria. They contain their own origin of replication and can be replicated **independently** of the primary genome.",
+      "mnemonic_image": "A tiny, autonomous toy car (plasmid) driving in circles around a massive, sleeping dog (chromosome) without waking it up.",
+      "source_ref": "II.B. Extrachromosomal DNA: Plasmids",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is **Co-transcriptional Translation** and where does it occur in prokaryotes?",
+      "back": "It is the process where the **transcription of DNA into mRNA** and the **translation of that mRNA into protein** occur **simultaneously**, enabled by ribosomes located near the genetic material.",
+      "mnemonic_image": "A tiny, multi-limbed robot knitting a rope (mRNA) with one hand while immediately weaving the rope into a sweater (protein) with another hand.",
+      "source_ref": "II.C. Protein Synthesis Machinery: Ribosomes",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the primary structural component of the bacterial **cell wall**, and which two molecules form its polymer?",
+      "back": "**Peptidoglycan**, a polymer of **N-acetylglucosamine (NAG)** and **N-acetylmuramic acid (NAM)** cross-linked by peptide bridges.",
+      "mnemonic_image": "A giant, heavy blanket (Peptidoglycan) made entirely of tiny, criss-crossed magnets that are labeled 'NAG' and 'NAM'.",
+      "source_ref": "III.A. The Cell Wall and Peptidoglycan",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Compare and contrast the main features of **Gram-Positive** versus **Gram-Negative** cell wall architecture.",
+      "back": "* **Gram-Positive:** Has a **thick** peptidoglycan layer embedded with **teichoic acids (TAs)**, which aid in rigidity and host cell adhesion.\n* **Gram-Negative:** Has a **thin** peptidoglycan layer situated within the **periplasmic space**, and is surrounded by an external **outer membrane** containing **lipopolysaccharide (LPS)**.",
+      "mnemonic_image": "A massive, brick fortress with flags sticking out (Gram-Positive) fighting a sleek, heavily shielded spaceship that has deadly, glowing antennae (Gram-Negative).",
+      "source_ref": "III.B. Gram-Positive vs. Gram-Negative Cell Wall Architecture",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The outer membrane of Gram-Negative bacteria contains **{{c1::lipopolysaccharide (LPS)}}**, which functions as an **endotoxin** in infections.",
+      "cloze_hint": "Toxic component of Gram-Negative outer membrane",
+      "mnemonic_image": "A massive, oily snake (LPS) wearing a spiked collar that makes a nearby doctor cough violently.",
+      "source_ref": "III.B. Gram-Positive vs. Gram-Negative Cell Wall Architecture",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Mechanism** by which the bacterial **Flagellum** generates movement?",
+      "back": "A motor in the basal body converts **proton motive force** into **rotational motion**, allowing the flagellum to rotate at high speeds ('swimming').",
+      "mnemonic_image": "A tiny, screeching drill bit being powered by a cascade of glowing, blue rain (protons).",
+      "source_ref": "IV.A. Flagella: The Rotary Motor - Mechanism",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What are the three main parts of the **Flagellar Structure**?",
+      "back": "Filament (external, made of flagellin), Hook (flexible universal joint), and Basal Body (motor assembly).",
+      "mnemonic_image": "A knight's shiny whip (Filament) attached to a floppy, bent knee (Hook), which is bolted to a massive, spinning turbine engine (Basal Body).",
+      "source_ref": "IV.B. Flagellar Structure",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Distinguish between the **Monotrichous** and **Lophotrichous** flagellar arrangements.",
+      "back": "* **Monotrichous:** A **single** flagellum at **one** end.\n* **Lophotrichous:** A **bunch** of flagella at **one** end.",
+      "mnemonic_image": "A solitary lighthouse (Mono) standing on the shore, contrasted with a dense, messy forest (Lopho) all clumped together.",
+      "source_ref": "IV.C. Flagellar Arrangements",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Which flagellar arrangement is characterized by flagella **covering the entire cell surface**?",
+      "back": "Peritrichous (e.g., *E. coli*).",
+      "mnemonic_image": "A baseball covered completely in long, wriggling worms.",
+      "source_ref": "IV.C. Flagellar Arrangements",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Explain the difference between a bacterial **'Run'** and a **'Tumble'** in directed movement.",
+      "back": "* **Run:** Flagella rotate **counter-clockwise** to propel the cell **forward** in a straight line.\n* **Tumble:** Flagella rotate **clockwise** to cause the cell to **reorient randomly**.",
+      "mnemonic_image": "A frantic hamster running on a wheel counter-clockwise (Run), then suddenly reversing and tumbling over and over (Tumble).",
+      "source_ref": "IV.D. Flagellar Movement and Taxis",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of **Chemotaxis** and what mechanism allows the cell to achieve it?",
+      "back": "Movement **in response to a chemical gradient**. It is achieved by **chemoreceptors** binding chemicals and transducing signals to the flagellum, allowing the cell to 'remember' concentrations.",
+      "mnemonic_image": "A small, yellow submarine with a giant nose sniffing the water, and its steering wheel changes direction only when a sweet smell gets stronger.",
+      "source_ref": "IV.D. Flagellar Movement and Taxis - Chemotaxis",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **primary function** of **Pili and Fimbriae**?",
+      "back": "Adhesion and colonization of surfaces, including animal tissues.",
+      "mnemonic_image": "Tiny, sticky velcro strips covering the entire surface of a cartoon baseball, desperately trying to stick to a nearby wall.",
+      "source_ref": "IV.E. Pili and Fimbriae",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the function of **Sex/Conjugative Pili**?",
+      "back": "They are specialized pili important for **conjugation**, the process of exchanging DNA between two cells.",
+      "mnemonic_image": "Two small, purple balls shaking hands with a long, glowing rope that is rapidly passing tiny scrolls of paper between them.",
+      "source_ref": "IV.E. Pili and Fimbriae",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the distinction between bacterial **Pili** and eukaryotic **Cilia**?",
+      "back": "* **Pili:** Found on bacteria; function primarily for **adhesion** and **DNA exchange**.\n* **Cilia:** Found on eukaryotic cells; are **short, numerous** appendages that beat in unison to **propel a cell** or **move substances** across a surface.",
+      "mnemonic_image": "A small, fuzzy pink caterpillar that can only stick to things (Pili) is wrestling with a massive, hairy octopus that is furiously paddling all its arms (Cilia).",
+      "source_ref": "IV.F. Distinction from Eukaryotic Cilia",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of **Endospores**, and what compound is a major component?",
+      "back": "A dormant, highly **resistant state** formed by certain bacteria (e.g., *Bacillus* and *Clostridium*) to survive harsh conditions. A major component is **calcium-dipicolinate (Ca-DPA)**.",
+      "mnemonic_image": "A small, silvery time capsule that is locked and guarded by a massive, angry crystal made of white powder.",
+      "source_ref": "V.A. Endospores: The Dormant State",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of the **Glycocalyx**, and what are its two forms?",
+      "back": "A 'sugar coat' external to the cell wall. Its two forms are a thick, organized **Capsule** or a looser **Slime Layer**.",
+      "mnemonic_image": "A clear, viscous syrup pouring over a small, gray house, either freezing into a perfect shell (Capsule) or dripping everywhere in a messy puddle (Slime Layer).",
+      "source_ref": "V.B. Glycocalyx: Capsules and Slime Layers",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "How does a bacterial **Capsule** aid in **Immune Evasion**?",
+      "back": "Capsules protect against the host immune system by:
+* **Negative Charge:** The negative charge of capsules (like Poly-D-Glutamic acid) prevents immune molecules from adhering.
+* **Opsonization Block:** Capsular polysaccharides (CPS) protect against complement-mediated opsonization and phagocytosis.",
+      "mnemonic_image": "A tiny, sparkling shield surrounding a marble, constantly repelling massive, angry white blood cells that try to stick to it.",
+      "source_ref": "V.B. Glycocalyx: Capsules and Slime Layers - Immune Evasion",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of a **Biofilm**?",
+      "back": "Complex microbial communities characterized by extensive **extracellular secretions** (the matrix) that encase the cells.",
+      "mnemonic_image": "A city made entirely of glowing, sticky blue jelly, filled with millions of tiny, squirming people.",
+      "source_ref": "VI. Microbial Communities: Biofilms - Definition",
+      "tag": "Bacterial Cell Structure and Function"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The **{{c1::biofilm matrix}}** is the major reason for the clinical significance of biofilms, as it makes it difficult to deliver drugs and other molecules to the bacteria within.",
+      "cloze_hint": "Component that blocks drug delivery in biofilms",
+      "mnemonic_image": "A massive, thick, oozing green curtain that stops a stream of tiny, flaming arrows from reaching the wall behind it.",
+      "source_ref": "VI. Microbial Communities: Biofilms - Protection and Disruption",
+      "tag": "Bacterial Cell Structure and Function"
+    }
+  ]
+}
+{
+  "flashcards": [
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of an **Amphipathic Molecule**?",
+      "back": "A molecule that possesses **both a hydrophilic** (water-loving) region (the head) and a **hydrophobic** (water-fearing) region (the tail).",
+      "mnemonic_image": "A small, nervous creature with a soaking wet head and dry, scaly feet, standing nervously near a puddle.",
+      "source_ref": "The Structure and Properties of Biological Membranes",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What principle explains the **Bilayer Formation** of phospholipids in an aqueous solution?",
+      "back": "The **amphipathic nature** of phospholipids drives their self-assembly, where hydrophobic tails spontaneously face inward (shielded from water) and hydrophilic heads face outward.",
+      "mnemonic_image": "Two massive, angry magnets, covered in tiny, terrified bugs, suddenly slam together to protect the bugs from the rain.",
+      "source_ref": "Amphipathic Nature and Self-Assembly",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Contrast the structural effect of **Saturated** versus **Unsaturated** fatty acids on membrane properties.",
+      "back": "* **Saturated:** Rigid chains that **decrease** membrane fluidity.\n* **Unsaturated:** Contain kinks that **increase** membrane fluidity.",
+      "mnemonic_image": "A stiff, straight metal rod (Saturated) fighting with a wiggling, broken garden hose (Unsaturated) over a pool of sticky oil.",
+      "source_ref": "Core Components of the Plasma Membrane - Fatty Acids",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the role of **Cholesterol** in the plasma membranes of **animal cells**?",
+      "back": "It is an amphipathic lipid that modulates membrane **integrity, mechanical stability, fluidity, and permeability**.",
+      "mnemonic_image": "A heavily armored, bearded man (Cholesterol) constantly adjusting the temperature and firmness of a massive bowl of gelatin.",
+      "source_ref": "Core Components of the Plasma Membrane - Cholesterol",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The major functions of **membrane proteins** are summarized by the mnemonic **{{c1::JETRAT}}** (Junctions, Enzymes, Transport, Recognition, Anchorage, and Transduction).",
+      "cloze_hint": "Mnemonic for Protein Functions",
+      "mnemonic_image": "A frantic, screaming robot (JETRAT) juggling a wrench, a boat, and a giant magnet all at once.",
+      "source_ref": "Core Components of the Plasma Membrane - Proteins",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Distinguish between **Integral** and **Peripheral** membrane proteins.",
+      "back": "* **Integral Proteins:** **Integrated directly** into the membrane, anchored by a hydrophobic region within the bilayer's core.\n* **Peripheral Proteins:** Located on the **surface** (inner or outer), attached to integral proteins or phospholipids.",
+      "mnemonic_image": "A submarine (Integral) completely submerged in the ocean, while a small, red life raft (Peripheral) floats loosely on the water's surface.",
+      "source_ref": "Core Components of the Plasma Membrane - Proteins",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Domain-Specific Distinction** in membrane composition between **Bacteria/Eukarya** and **Archaea**?",
+      "back": "* **Bacteria/Eukarya:** Use **phospholipid bilayers** with **ester-linked fatty acids**.\n* **Archaea:** Often use **lipid monolayers** built from **isoprene units** (not fatty acids).",
+      "mnemonic_image": "Two massive, braided ropes (B/E) made of oil, contrasting with a single, unbraided rope (Archaea) made of rubber tires (isoprene).",
+      "source_ref": "Domain-Specific Membrane Composition",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Compare **Gram-Positive** and **Gram-Negative** bacteria based on the **Number of Membranes** and the presence of **LPS**.",
+      "back": "* **Gram-Positive:** **One** inner plasma membrane; **LPS is Absent**.\n* **Gram-Negative:** **Two** membranes (inner and outer); **LPS is Present** in the outer membrane.",
+      "mnemonic_image": "A single, massive wall with no decorations (Gram-Positive) fighting a fortress that has two layers and a crown of tiny, glowing, poisonous horns (Gram-Negative).",
+      "source_ref": "The Bacterial Cell Wall: Gram-Positive vs. Gram-Negative (Table)",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What **Additional Components** are found in Gram-Positive bacteria versus Gram-Negative bacteria?",
+      "back": "* **Gram-Positive:** Possess **Teichoic Acid** and **Lipoteichoic Acid**.\n* **Gram-Negative:** Possess **Porins** in the outer membrane and a **Periplasm**.",
+      "mnemonic_image": "A shiny, ancient vase (Teichoic Acid) is sitting on a pedestal, while a transparent, bubbly sponge (Periplasm) is used to clean the windows.",
+      "source_ref": "The Bacterial Cell Wall: Gram-Positive vs. Gram-Negative (Table)",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What unique cell wall component of **Mycobacteria** makes them resistant to Gram staining?",
+      "back": "A cell wall rich in **mycolic acids** (long fatty acids), which necessitates the use of **Ziehl-Neelsen staining**.",
+      "mnemonic_image": "A massive, angry gray mountain made of thick, greasy fat that repels a bottle of purple dye.",
+      "source_ref": "Unique Cell Wall Structures - Mycobacteria",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "How do the cell walls of **Archaea** differ structurally from those of Bacteria, and what unique molecule do they possess?",
+      "back": "Archaea **lack peptidoglycan**. Some have **pseudomurein**, a similar molecule where **N-acetylmuramic acid (NAM) is replaced by N-acetyltalosaminuronic acid (NAT)**.",
+      "mnemonic_image": "A small, yellow boat (Archaea) that has replaced its wooden floor (PG) with a plastic floor (Pseudomurein) made of colorful, glowing letters (NAT).",
+      "source_ref": "Unique Cell Wall Structures - Archaea",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The two alternating sugars in the **Peptidoglycan** polymer are **N-acetylglucosamine (NAG)** and **{{c1::N-acetylmuramic acid (NAM)}}**.",
+      "cloze_hint": "The sugar unique to peptidoglycan",
+      "mnemonic_image": "A long, red rope made of alternating sweet candies, where one candy is a glowing green letter 'A' and the other is a massive, sticky brown mud ball.",
+      "source_ref": "Key Molecular Structures and Their Biological Roles - Peptidoglycan",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of the $\\beta(1,4)$ glycosidic bond in peptidoglycan, and what enzyme targets it?",
+      "back": "It is the bond connecting the alternating NAG and NAM sugars, and it is the target of the enzyme **lysozyme**.",
+      "mnemonic_image": "A tiny, screeching scissors (Lysozyme) furiously cutting a black line labeled $\\beta(1,4)$ that runs between two glowing candies.",
+      "source_ref": "Key Molecular Structures and Their Biological Roles - Peptidoglycan",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Contrast the **Peptidoglycan Cross-linkage** mechanism in **Gram-Negative** versus **Gram-Positive** bacteria.",
+      "back": "* **Gram-Negative:** A **direct bond** forms between diaminopimelic acid (DAP) and D-alanine (D-Ala).\n* **Gram-Positive:** An **'inter-bridge'** of several additional amino acids forms the cross-link.",
+      "mnemonic_image": "Two small children shaking hands directly (Gram-Negative), contrasted with the same two children shaking hands while holding a long, messy, tangled rope between them (Gram-Positive).",
+      "source_ref": "Key Molecular Structures and Their Biological Roles - Peptidoglycan Cross-linking",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Lipid A** component of **Lipopolysaccharide (LPS)** known as, and what is its function?",
+      "back": "It is the lipid portion embedded in the membrane, and it is known as **endotoxin** because it is often toxic to animals.",
+      "mnemonic_image": "A massive, fiery 'A' made of grease that poisons any small animal that touches it.",
+      "source_ref": "Key Molecular Structures and Their Biological Roles - LPS",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Which component of **Lipopolysaccharide (LPS)** varies significantly between bacterial species and serves as a major surface antigen?",
+      "back": "The **O-Polysaccharide** (the outermost portion).",
+      "mnemonic_image": "A giant, colorful, swirling 'O' made of millions of tiny, different flags.",
+      "source_ref": "Key Molecular Structures and Their Biological Roles - LPS Structure and Function",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Distinguish between the mechanisms of **Simple Diffusion** and **Facilitated Diffusion** (Passive Transport).",
+      "back": "* **Simple Diffusion:** Direct movement of **small, uncharged, hydrophobic** molecules (e.g., O₂) across the membrane down the gradient.\n* **Facilitated Diffusion:** Movement of **lipid-insoluble or charged** molecules (e.g., Na⁺) across the membrane **through channels or carrier proteins**.",
+      "mnemonic_image": "A tiny, invisible ghost slipping easily through a closed door (Simple), contrasted with a giant, glowing ball (Facilitated) that needs a massive, spinning metal turnstile to get through the wall.",
+      "source_ref": "Membrane Transport Mechanisms - Passive Transport",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Distinguish between **Primary (Direct)** and **Secondary (Indirect)** Active Transport.",
+      "back": "* **Primary Active Transport:** Uses **direct** metabolic energy (e.g., **ATP hydrolysis**) to power transport against a gradient.\n* **Secondary Active Transport:** **Couples** the movement of a molecule against its gradient with another molecule moving **along** its electrochemical gradient (indirect energy use).",
+      "mnemonic_image": "A massive, screaming battering ram (ATP) smashing a wall (Primary), contrasted with a tiny, attached tow cable pulling a car up a hill while another car rolls easily down (Secondary).",
+      "source_ref": "Membrane Transport Mechanisms - Active Transport",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** (Mandate Rule 3) and mechanism of a **Bactericidal** antibiotic?",
+      "back": "An antibiotic that **causes cell death** by disrupting a key enzyme function, which subsequently becomes toxic to the cell.",
+      "mnemonic_image": "A small, shining sword that cuts the strings on a puppet, causing it to instantly fall into a screaming pile of ash.",
+      "source_ref": "Antibiotic Mode of Action - Classification",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **target** of $\\beta$-lactam antibiotics (e.g., penicillin and cephalosporins)?",
+      "back": "**Penicillin-Binding Proteins (PBPs)**, which are enzymes involved in the synthesis of the peptidoglycan cell wall.",
+      "mnemonic_image": "A tiny, blue, crescent-shaped laser (Beta-Lactam) that only shoots at a fat, pink cartoon knight labeled 'PBP'.",
+      "source_ref": "Antibiotic Mode of Action - Target",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The $\\beta$-lactam class of antibiotics are **{{c1::bactericidal}}** because they inhibit the **transpeptidase (TP)** activity of PBPs, preventing cell wall cross-linking.",
+      "cloze_hint": "Effect of Beta-lactam antibiotics on bacteria",
+      "mnemonic_image": "A tiny, metallic fist smashing a massive, glass bridge, causing the bridge to collapse into a cloud of screaming white dust.",
+      "source_ref": "Antibiotic Mode of Action - Mechanism of Action",
+      "tag": "Cell Membranes and Cell Walls: A Comprehensive Analysis"
+    }
+  ]
+}
+{
+  "flashcards": [
+    {
+      "card_type": "Basic",
+      "front": "Contrast **Anabolic Reactions** and **Catabolic Reactions** based on molecule size and net energy requirement.",
+      "back": "* **Anabolic (Biosynthesis):** Joins small substances to create **larger** molecules; requires a **net input of energy** (Endergonic).\n* **Catabolic (Degradation):** Breaks down large substances into **smaller** molecules; results in a **release of energy** (Exergonic).",
+      "mnemonic_image": "A small child stacking tiny blocks into a massive tower while sweating profusely (Anabolic), contrasted with a giant monster smashing a tower into tiny pieces and then cheering loudly (Catabolic).",
+      "source_ref": "1. Foundations of Metabolism and Energy",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of **Free Energy (ΔG)**, and how does its sign indicate the reaction type?",
+      "back": "It is the energy available to do work.\n* **Exergonic:** $\\Delta$G < 0 (releases energy).\n* **Endergonic:** $\\Delta$G > 0 (requires energy input).",
+      "mnemonic_image": "A tiny, nervous financier nervously watching a sign on a neon billboard that is either glowing red and dropping (Exergonic) or glowing green and rising (Endergonic).",
+      "source_ref": "1.1. Energy Dynamics - Free Energy",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "Cells power **{{c1::endergonic reactions}}** by coupling them with exergonic reactions, primarily using the energy stored in the **phosphoanhydride bonds** of ATP.",
+      "cloze_hint": "Type of reaction that requires energy input",
+      "mnemonic_image": "A small, whimpering blue figure being dragged up a hill by a massive, screaming red figure attached by a glowing, cracking leash.",
+      "source_ref": "1.1. Energy Dynamics",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What are the **Key Definitions** and distinguishing carbon sources for **Autotrophs** and **Heterotrophs**?",
+      "back": "* **Autotrophs:** Use **carbon dioxide (CO₂)** as their main or sole carbon source (e.g., Cyanobacteria).\n* **Heterotrophs:** Use **organic compounds** (typically from other organisms) as their carbon source (e.g., *E. coli*).",
+      "mnemonic_image": "A small, smiling plant breathing in gas fumes (Autotroph), contrasted with a giant monster angrily eating a massive, bloody steak (Heterotroph).",
+      "source_ref": "2.1. Classification by Carbon and Energy Source - Carbon Source",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Distinguish between **Phototrophs** and **Chemotrophs**.",
+      "back": "* **Phototrophs:** Obtain energy by capturing **light energy** and converting it into chemical energy.\n* **Chemotrophs:** Obtain energy by breaking down **organic or inorganic molecules**.",
+      "mnemonic_image": "A person sitting peacefully under a giant, glowing sun (Phototroph), contrasted with a savage monster frantically smashing rocks and eating the dust (Chemotroph).",
+      "source_ref": "2.1. Classification by Carbon and Energy Source - Energy Source",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Classify **Photoheterotrophs** based on their energy and carbon sources, and give an example.",
+      "back": "* **Energy Source:** Sunlight\n* **Carbon Source:** Organic compounds\n* **Example:** Purple non-sulfur bacteria",
+      "mnemonic_image": "A glowing pink bird sitting on a tree branch, peacefully eating a massive, sweet blueberry pie.",
+      "source_ref": "2.1. Classification by Carbon and Energy Source (Table)",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Contrast **Obligate Aerobes** and **Obligate Anaerobes** based on their requirement and tolerance for oxygen.",
+      "back": "* **Obligate Aerobes:** **Require oxygen (O₂) to metabolize** (e.g., *Mycobacterium*).\n* **Obligate Anaerobes:** **Cannot tolerate oxygen** and only perform anaerobic metabolism (e.g., *C. botulinum*).",
+      "mnemonic_image": "A person desperately clinging to a giant, silvery oxygen tank (Aerobe) while a black, purple creature screams and shrivels up when a light switch is flipped on (Anaerobe).",
+      "source_ref": "2.2. Classification by Oxygen Requirement",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of **Facultative Anaerobes** and how does their metabolism adapt to the presence of O₂?",
+      "back": "Organisms that **use aerobic metabolism in the presence of O₂** but can switch to **anaerobic metabolism** in its absence (e.g., *Salmonella*).",
+      "mnemonic_image": "A two-faced, smiling cartoon figure happily breathing air with one mouth, while the other mouth has a gas mask ready to pull down the moment the air stops.",
+      "source_ref": "2.2. Classification by Oxygen Requirement",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The macronutrient needed in the largest amount for cellular structure and function is **{{c1::Carbon}}**, which, along with Hydrogen and Oxygen, constitutes approximately 75% of a cell’s dry weight.",
+      "cloze_hint": "Macronutrient needed in largest quantity",
+      "mnemonic_image": "A massive, screaming graphite pencil standing next to a tiny scale that reads '75%'.",
+      "source_ref": "3.1. Macronutrients",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Why is **Iron** considered the **'Macro' Micronutrient**?",
+      "back": "It is utilized by almost all microbes because it is central to many enzymatic reactions due to its ability to undergo **redox transformations** (Fe²⁺ $\\leftrightarrow$ Fe³⁺).",
+      "mnemonic_image": "A small, shiny, metallic, screaming baby (Micronutrient) who is the boss of all the kitchen pots and pans (enzymes) because he can instantly switch between glowing red and glowing blue.",
+      "source_ref": "3.2. Micronutrients",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What are **Heme Proteins**, and what is their essential role in energy production?",
+      "back": "Proteins containing a **heme group** (a ring-shaped structure with a central iron ion). They are vital for **respiration** and **energy production** (e.g., **Cytochromes**).",
+      "mnemonic_image": "A massive, throbbing, metallic ring with a tiny, glowing iron ball at the center, acting as the battery for a screaming, neon-red power plant.",
+      "source_ref": "3.2. Micronutrients",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of the **Simple Transport** mechanism and what is its energy source?",
+      "back": "A transport system that utilizes a **single membrane protein** and an existing **ion gradient** (e.g., proton-motive force) to move a substance. The substance is **not chemically altered**.",
+      "mnemonic_image": "A massive, singular blue waterfall (ion gradient) pushing a small, clear cup through a hole in a wall, but the cup remains full of water.",
+      "source_ref": "4.1. Simple Transport",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What are the two defining characteristics of the **Group Translocation** transport system?",
+      "back": "1. The transported substance is **chemically modified** as it crosses the membrane (most commonly by phosphorylation).\n2. It is powered by an energy-rich compound like **phosphoenolpyruvate (PEP)**.",
+      "mnemonic_image": "A small, clear ball that turns bright green (phosphorylation) the moment it passes through a giant, noisy shredder powered by a screaming green monster (PEP).",
+      "source_ref": "4.2. Group Translocation",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of **ABC Transporters** and what is their direct energy source?",
+      "back": "ATP-Binding Cassette systems. They are multi-protein systems that use the **direct hydrolysis of ATP** as an energy source to move a wide variety of molecules.",
+      "mnemonic_image": "A giant, gold vending machine that only accepts screaming dollar bills (ATP) and spits out a wide variety of strange toys.",
+      "source_ref": "4.3. ABC Transporters (ATP-Binding Cassette)",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "**{{c1::ABC Exporters}}** are a significant branch of ABC transporters involved in **efflux** and serving as **multidrug efflux pumps**, which contributes to drug resistance.",
+      "cloze_hint": "Transport system responsible for drug resistance efflux",
+      "mnemonic_image": "A massive, reverse ATM that angrily spits out a stream of tiny, flaming medicine bottles every time a dollar bill is inserted.",
+      "source_ref": "4.4. ABC Exporters",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Identify the two primary **activated precursors** for polysaccharide biosynthesis and what structure each is used for.",
+      "back": "* **UDP-glucose:** Precursor for **lipopolysaccharides** and **peptidoglycan**.\n* **ADP-glucose:** Precursor for **glycogen** production.",
+      "mnemonic_image": "A massive, screaming 'U' in a construction hardhat building a wall (peptidoglycan), contrasted with a fat, sleeping 'A' guarding a massive pile of sugar cubes (glycogen).",
+      "source_ref": "5.1. Polysaccharide Biosynthesis - Precursors",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "When synthesizing **amino acids**, from what sources are the **carbon skeleton** and the **nitrogen source** typically derived?",
+      "back": "* **Carbon Skeletons:** Derived from **glucose** or other carbon sources, often from intermediates of central metabolic pathways.\n* **Nitrogen Source:** The amino group (NH₂) is derived from an inorganic source like **ammonia (NH₃)**.",
+      "mnemonic_image": "A large, gray stick figure (carbon skeleton) shaking hands with a massive, angry thundercloud (ammonia) that is constantly spitting out tiny, glowing nitrogen atoms.",
+      "source_ref": "5.3. Amino Acid Biosynthesis",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "Fatty acid biosynthesis starts with the irreversible **{{c1::carboxylation of Acetyl CoA}}** to form **Malonyl CoA**.",
+      "cloze_hint": "Initiation step of fatty acid synthesis",
+      "mnemonic_image": "A tiny, screaming molecule (Acetyl CoA) having a giant, black car exhaust pipe permanently cemented to its head, instantly transforming it into a tiny, evil cartoon villain.",
+      "source_ref": "5.4. Lipid (Fatty Acid) Biosynthesis - Initiation",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of an **Enzyme** and what is its fundamental function in metabolism?",
+      "back": "Enzymes are protein catalysts that **lower the activation energy** required for a chemical reaction to proceed, thereby increasing the reaction rate.",
+      "mnemonic_image": "A giant, glowing silver ramp (Enzyme) being slid under a massive, heavy boulder, allowing a tiny, screaming man to easily push the boulder over a cliff.",
+      "source_ref": "6. The Role of Enzymes in Metabolism - Function",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What are **Ribozymes**, and what is the functional significance of the **Hammerhead Ribozyme**?",
+      "back": "RNA molecules that possess **enzymatic activity**, proving not all catalysts are proteins. Hammerhead ribozymes (found in some viruses) facilitate the **self-cleavage of viral RNA** for replication.",
+      "mnemonic_image": "A screaming, red snake (RNA) that suddenly transforms its head into a sharp hammer, using it to furiously slice its own tail in half.",
+      "source_ref": "6.1. Ribozymes: Catalytic RNA",
+      "tag": "Bacterial Metabolism and Biosynthesis"
+    }
+  ]
+}
+{
+  "flashcards": [
+    {
+      "card_type": "Basic",
+      "front": "What are the **Key Definitions** of **Oxidation** and **Reduction** in redox reactions?",
+      "back": "* **Oxidation:** The **loss** of electrons.\n* **Reduction:** The **gain** of electrons.",
+      "mnemonic_image": "A massive, screaming dragon (Oxidation) throwing a handful of shiny coins away, while a smaller, happy troll (Reduction) grabs the falling coins and shoves them into his pocket.",
+      "source_ref": "I.A. Core Principles of Anaerobic Metabolism",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **primary function** of **Fermentation** in anaerobic metabolism, and why is it essential?",
+      "back": "Its primary function is to maintain **redox balance** by recycling the electron carrier **NADH back into NAD⁺**, allowing glycolysis to continue producing ATP.",
+      "mnemonic_image": "A frantic, spinning laundry machine (Fermentation) cleaning a dirty red towel (NADH) and instantly spitting out a clean, glowing blue towel (NAD+) so the wash cycle can continue.",
+      "source_ref": "I.A. Core Principles of Anaerobic Metabolism",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Net Yield** of **ATP and Pyruvate** from the **Energy Payoff (Stage II)** of Glycolysis (from one glucose molecule)?",
+      "back": "A net gain of **2 ATP** and **2 pyruvate molecules**.",
+      "mnemonic_image": "A shining blue bank vault opening and spitting out exactly two gold bars (ATP) and two spiky, orange pyramids (Pyruvate).",
+      "source_ref": "I.B. The Three Stages of Glycolysis - Stage II",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "In Glycolysis Stage II, energy is captured through **{{c1::substrate-level phosphorylation}}**, where high-energy phosphate bonds are transferred directly to ADP to produce ATP.",
+      "cloze_hint": "Type of phosphorylation in Glycolysis",
+      "mnemonic_image": "A small, glowing, angry fish (Phosphate) jumping directly from one giant piece of wood (Substrate) onto a smaller piece of wood (ADP) to build a new castle (ATP).",
+      "source_ref": "I.B. The Three Stages of Glycolysis - Stage II",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the key metabolic distinction between an **Obligate Aerobe** and an **Obligate Anaerobe** in terms of oxygen use?",
+      "back": "* **Obligate Aerobe:** **Cannot survive without oxygen**; must use oxygen as a final electron acceptor.\n* **Obligate Anaerobe:** **Cannot survive in the presence of oxygen**; oxygen is toxic.",
+      "mnemonic_image": "A small, smiling dog happily breathing through a scuba mask (Aerobe) contrasted with a terrified, purple monster that instantly melts when a ray of sunlight (Oxygen) touches its skin (Anaerobe).",
+      "source_ref": "II.A. Classification Based on Oxygen Use (Table)",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of a **Facultative Anaerobe** and how does their energy production differ when oxygen is present?",
+      "back": "They **can switch** between aerobic and anaerobic metabolism. They prefer to use **oxygen for respiration** when present, as it **produces more energy** and leads to better growth.",
+      "mnemonic_image": "A race car driver who always chooses the massive, winding freeway (Aerobic) over the tiny, bumpy side road (Anaerobic) because he gets much more gas (energy) at the finish line.",
+      "source_ref": "II.A. Classification Based on Oxygen Use (Table)",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The primary cause of **Oxygen Toxicity** for some anaerobic organisms is their lack of genes to produce enzymes that neutralize **{{c1::Reactive Oxygen Species (ROS)}}** byproducts.",
+      "cloze_hint": "Toxic byproducts of oxygen metabolism",
+      "mnemonic_image": "A screaming, red skull with glowing green eyes (ROS) floating near a small, gray house whose windows are sealed with thick metal bars.",
+      "source_ref": "II.B. Rationale for Anaerobic Lifestyles - Oxygen Toxicity",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of **Short-Chain Fatty Acids (SCFAs)**, and how do they originate in the gut?",
+      "back": "SCFAs are the **waste products** of **anaerobic fermentation** of indigestible carbohydrates (dietary fiber) by gut bacteria.",
+      "mnemonic_image": "A pile of discarded, messy vegetable scraps magically transforming into three distinct, small, shiny daggers.",
+      "source_ref": "III.A. Short-Chain Fatty Acids (SCFAs) - Origin",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the emerging function of **Short-Chain Fatty Acids (SCFAs)** for the **human host**?",
+      "back": "Human cells can absorb and utilize them for various functions, with emerging evidence strongly linking SCFAs to **anti-inflammatory pathways** in the body.",
+      "mnemonic_image": "Three small, smiling mice (SCFAs) wearing tiny white lab coats and using a cooling cream to soothe a massive, angry, red burn on a person's arm.",
+      "source_ref": "III.A. Short-Chain Fatty Acids (SCFAs) - Function for Host",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What are the two types of **Phototrophs** and how does their carbon source differ?",
+      "back": "* **Photoautotrophs:** Use **CO₂** as their sole carbon source (e.g., Cyanobacteria).\n* **Photoheterotrophs:** Use **organic compounds** from the environment as their carbon source (e.g., Purple non-sulfur bacteria).",
+      "mnemonic_image": "A shiny, solar-powered house with a massive chimney sucking up gray smoke (CO₂) (Autotroph), contrasted with a solar-powered house whose windows are covered in massive steaks (Organic) (Heterotroph).",
+      "source_ref": "IV.A. Classification of Phototrophs",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Distinguish between **Chlorophyll *a*** and **Bacteriochlorophyll** based on the type of light they absorb.",
+      "back": "* **Chlorophyll *a*** (oxygenic bacteria): Absorbs **red and blue** light (reflects green).\n* **Bacteriochlorophyll** (anoxygenic bacteria): Absorbs light in the **far-red/infrared** spectrum.",
+      "mnemonic_image": "A giant, shiny green marble (Chlorophyll *a*) only reacts when hit by tiny red and blue lasers, while a rough, dull purple marble (Bacteriochlorophyll) only reacts to invisible heat rays.",
+      "source_ref": "IV.B. Light Absorption and Pigments - Pigment Types",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The flow of electrons in photosynthesis creates an electrochemical gradient called the **{{c1::proton motive force}}**, which is used by **ATP Synthase** to generate ATP.",
+      "cloze_hint": "Electrochemical gradient used to synthesize ATP",
+      "mnemonic_image": "A rushing, sparkling river (Protons) pushing a massive, screaming waterwheel (ATP Synthase) that is spitting out gold coins (ATP).",
+      "source_ref": "IV.C. The Proton Motive Force and ATP Synthesis",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Contrast the **Electron Donor** used in **Anoxygenic Photosynthesis** versus **Oxygenic Photosynthesis**.",
+      "back": "* **Anoxygenic Photosynthesis:** Uses **alternative inorganic compounds** (e.g., H₂S, H₂).\n* **Oxygenic Photosynthesis:** Uses **Water (H₂O)**.",
+      "mnemonic_image": "A massive, angry sulfur cloud (H₂S) giving a tiny electron to a small, purple flower, contrasted with a massive, dripping faucet (H₂O) giving an electron to a green plant.",
+      "source_ref": "V.A. Key Differences in Photosynthetic Pathways (Table)",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the key **Distinction/Contrast** between the **Electron Flow** in **Anoxygenic** and **Oxygenic** Photosynthesis?",
+      "back": "* **Anoxygenic:** Electron flow is **Cyclical** (electrons return to the original reaction center).\n* **Oxygenic:** Electron flow is **Non-cyclical** (electrons flow from a donor to a final acceptor).",
+      "mnemonic_image": "A tiny, blue, shining marble perpetually rolling in a perfect circle (Cyclical), contrasted with a massive, continuous river flowing from a mountain to the ocean (Non-Cyclical).",
+      "source_ref": "V.A. Key Differences in Photosynthetic Pathways (Table)",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Which type of photosynthesis, **Anoxygenic** or **Oxygenic**, is responsible for **O₂ production**, and why?",
+      "back": "**Oxygenic Photosynthesis** is responsible for O₂ production, because the splitting of **water (H₂O)** is required to provide electrons, releasing O₂ as a byproduct.",
+      "mnemonic_image": "A tiny, shining glass of water is violently exploding into a burst of bright, clean air.",
+      "source_ref": "V.A. Key Differences in Photosynthetic Pathways (Table)",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "**{{c1::Cyanobacteria}}** are a key example of a photoautotroph and are credited as being the first organisms on Earth to produce oxygen.",
+      "cloze_hint": "Oxygenic bacteria credited with first O₂ production",
+      "mnemonic_image": "A glowing, bright blue-green carpet covering a rocky, ancient planet, causing a massive cloud of fresh air to erupt into space.",
+      "source_ref": "IV.A. Classification of Phototrophs",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **ultimate goal** of generating ATP and reducing power through photosynthesis?",
+      "back": "To fuel **Carbon Fixation** (the Calvin Cycle), which converts **inorganic CO₂** into **organic molecules** (like glucose), forming the base of the food web.",
+      "mnemonic_image": "A massive, golden furnace (Carbon Fixation) sucking up gray smoke (CO₂) and spitting out shining, perfect sugar cubes (Glucose).",
+      "source_ref": "V.B. Carbon Fixation",
+      "tag": "Microbial Energy Metabolism and Photosynthesis"
+    }
+  ]
+}
+{
+  "flashcards": [
+    {
+      "card_type": "Basic",
+      "front": "What is the **Core Function** and **Key Definition** of the **Calvin Cycle**?",
+      "back": "It is the central pathway for the **light-independent reactions** of photosynthesis, whose primary function is to **reduce and fix atmospheric carbon dioxide ($\\text{CO}_2$)** into fundamental carbon building blocks (carbohydrates).",
+      "mnemonic_image": "A small, muscular man (Calvin) furiously hammering tiny $\\text{CO}_2$ particles into a massive, shiny green wall (glucose).",
+      "source_ref": "Core Function and Process",
+      "tag": "Metabolic Pathways: The Calvin and Citric Acid Cycles"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The net result of the Calvin Cycle is the synthesis of **{{c1::glyceraldehyde-3-phosphate (G3P)}}**, a three-carbon sugar precursor for glucose.",
+      "cloze_hint": "The three-carbon sugar produced by the Calvin Cycle",
+      "mnemonic_image": "A tiny, shining triangle with three dots on each side, which immediately transforms into a giant, sparkling sugar cube.",
+      "source_ref": "The Three Stages of the Calvin Cycle",
+      "tag": "Metabolic Pathways: The Calvin and Citric Acid Cycles"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the function of the enzyme **RubisCO** in the **Carbon Fixation** stage of the Calvin Cycle?",
+      "back": "RubisCO catalyzes the reaction between one molecule of $\\text{CO}_2$ and the five-carbon acceptor molecule, **ribulose-1,5-bisphosphate (RuBP)**, initiating the cycle.",
+      "mnemonic_image": "A massive, screaming chef (RubisCO) slamming a small, gray $\\text{CO}_2$ particle onto a giant, flat, five-leaf clover (RuBP).",
+      "source_ref": "The Three Stages of the Calvin Cycle - Carbon Fixation",
+      "tag": "Metabolic Pathways: The Calvin and Citric Acid Cycles"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What are the key **advantages** of using **bacteria and cyanobacteria** for **bioengineering carbon capture**?",
+      "back": "1. **High Efficiency** in $\\text{CO}_2$ fixation. 2. **Rapid Growth** rate allows for easy scaling. 3. **Genetic Malleability** (single-celled organisms). 4. Can produce **Valuable Byproducts** (e.g., fuels, oils).",
+      "mnemonic_image": "A massive, fast-growing blue crystal that is easy to cut and shape, constantly spitting out tiny gold bars while sucking up gray smoke.",
+      "source_ref": "Engineering Microbes for Carbon Capture",
+      "tag": "Metabolic Pathways: The Calvin and Citric Acid Cycles"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Contrast the **efficiency** and **organisms** that use the **Reverse Citric Acid Cycle** versus the **Reductive Acetyl-CoA Pathway** for $\\text{CO}_2$ fixation.",
+      "back": "* **Reverse TCA:** More efficient than Calvin Cycle; used by **Green sulfur bacteria**.\n* **Reductive Acetyl-CoA:** Considered the **most efficient** $\\text{CO}_2$ fixation pathway; used by **Obligate anaerobes** (e.g., methanogenic archaea).",
+      "mnemonic_image": "A backwards-running snail (Reverse TCA) being overtaken by a jet-powered mouse (Reductive Acetyl-CoA).",
+      "source_ref": "Alternative Carbon Fixation Pathways (Table)",
+      "tag": "Metabolic Pathways: The Calvin and Citric Acid Cycles"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The enzyme **{{c1::Formate Dehydrogenase (FDH)}}** converts $\\text{CO}_2$ into **formate**, and functions more effectively with electrons from **artificial sources** than with its natural donor, NADH.",
+      "cloze_hint": "Enzyme that converts $\\text{CO}_2$ to formate",
+      "mnemonic_image": "A small, glowing, red 'H' (FDH) that only accepts glowing, purple energy from a wall socket, ignoring a massive, floppy piece of toast (NADH).",
+      "source_ref": "Alternative Carbon Fixation Pathways (Table) - Formate Dehydrogenase",
+      "tag": "Metabolic Pathways: The Calvin and Citric Acid Cycles"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of the **Citric Acid Cycle** (TCA Cycle) and what are its two primary roles in metabolism?",
+      "back": "A central metabolic hub that is a continuation of glycolysis, generating high-energy electron carriers ($\\text{NADH}, \\text{FADH}_2$). Its dual roles are **Catabolism** (oxidation of fuel molecules) and **Anabolism** (providing precursor molecules).",
+      "mnemonic_image": "A central, shining metallic hub with two spokes: one leading to a massive wrecking ball (Catabolism), and the other leading to a complex assembly line (Anabolism).",
+      "source_ref": "Overview and Location, Dual Roles",
+      "tag": "Metabolic Pathways: The Calvin and Citric Acid Cycles"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Contrast the **location** of the Citric Acid Cycle in **eukaryotes** versus **prokaryotes**.",
+      "back": "* **Eukaryotes:** Occurs in the **matrix of the mitochondria**.\n* **Prokaryotes:** Occurs in the **cytoplasm**.",
+      "mnemonic_image": "A small, gray bead (Prokaryote) rolling on the floor (Cytoplasm), contrasted with a giant, complex machine (Eukaryote) where the main engine room is deep inside a separate, glowing factory (Mitochondria).",
+      "source_ref": "Overview and Location",
+      "tag": "Metabolic Pathways: The Calvin and Citric Acid Cycles"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the fate of **Pyruvate** from glycolysis, **Fatty acids** from lipids, and **Ketogenic amino acids** from proteins before they enter the Citric Acid Cycle?",
+      "back": "All three are converted into the final common entry molecule, **Acetyl-CoA**.",
+      "mnemonic_image": "Three massive, angry rivers (Pyruvate, Fatty Acids, Amino Acids) all flow into a single, massive, glowing funnel labeled 'Acetyl-CoA'.",
+      "source_ref": "Catabolic Function",
+      "tag": "Metabolic Pathways: The Calvin and Citric Acid Cycles"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Identify the **TCA Cycle Intermediate** that is siphoned off to produce **Fatty acids** (via cytosolic Acetyl-CoA) and the one that produces **Heme/Chlorophyll**.",
+      "back": "* **Citrate** is a precursor for **Fatty acids**.\n* **Succinyl-CoA** is a precursor for **Porphyrins, Heme, and Chlorophyll**.",
+      "mnemonic_image": "A lemon (Citrate) magically transforming into a bottle of cooking oil, contrasted with a shining silver chain (Succinyl-CoA) being used to hang a massive, glowing red ring (Heme).",
+      "source_ref": "Anabolic Function (Table)",
+      "tag": "Metabolic Pathways: The Calvin and Citric Acid Cycles"
+    },
+    {
+      "card_type": "Basic",
+      "front": "The TCA intermediate **Oxaloacetate** is a precursor for what two important final products?",
+      "back": "1. **Glucose** (via gluconeogenesis). 2. **Pyrimidine nucleotides** (as well as amino acids like Aspartate).",
+      "mnemonic_image": "A giant, round, spinning coin (Oxaloacetate) that has a sugar cube on one side and a tiny, pink pyramid (pyrimidine) on the other.",
+      "source_ref": "Anabolic Function (Table)",
+      "tag": "Metabolic Pathways: The Calvin and Citric Acid Cycles"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The complete aerobic oxidation of a single glucose molecule through the TCA cycle and related pathways can generate a total of up to **{{c1::38 ATP}}**.",
+      "cloze_hint": "Maximum ATP yield per glucose in aerobic respiration",
+      "mnemonic_image": "A massive, screaming dragon with 38 shining, golden scales.",
+      "source_ref": "Catabolic Function",
+      "tag": "Metabolic Pathways: The Calvin and Citric Acid Cycles"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of the **Glyoxylate Cycle**, and how does its function differ from the TCA cycle?",
+      "back": "It is a modified TCA cycle found in plants, bacteria, etc., that is an **anabolic pathway** allowing organisms to synthesize **carbohydrates from two-carbon compounds** (like acetate/fatty acids) when glucose is scarce. It is **not** for direct energy production.",
+      "mnemonic_image": "A small, friendly, green ghost (Glyoxylate) that only eats tiny salt-shakers (acetate) and spits out giant sugar cubes (carbohydrates).",
+      "source_ref": "The Glyoxylate Cycle: An Anabolic Alternative",
+      "tag": "Metabolic Pathways: The Calvin and Citric Acid Cycles"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is **Siderophore** production, and how does it help microbial pathogens survive within a host?",
+      "back": "Siderophores are high-affinity **iron-chelating molecules** produced by pathogens to **scavenge iron** from host proteins, counteracting the host's 'nutritional immunity' (iron sequestration).",
+      "mnemonic_image": "A tiny, blue, armed ninja (Siderophore) snatching a massive, glowing red magnet (Iron) from the hands of a sleeping giant (Host).",
+      "source_ref": "Metabolic Flexibility in Microbial Pathogens",
+      "tag": "Metabolic Pathways: The Calvin and Citric Acid Cycles"
+    }
+  ]
+}
+{
+  "flashcards": [
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of the **Electron Transport Chain** (ETC) in terms of electron flow and redox potential?",
+      "back": "The directed movement of electrons from a donor (negative redox potential) to an acceptor (more positive redox potential) through a sequence of membrane-fixed carrier proteins.",
+      "mnemonic_image": "A tiny, black snowball rolling down a massive, glowing red slide, constantly being caught and released by tiny, fixed metallic hands.",
+      "source_ref": "1. The Fundamentals of Electron Transport",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What are the three main uses of the **Proton Motive Force (PMF)** in bacteria, besides $\\text{ATP}$ synthesis?",
+      "back": "1. **Movement of flagella** for motility. 2. Driving **membrane carrier proteins** for nutrient transport. 3. Regenerating the $\\text{PMF}$ by **hydrolyzing $\\text{ATP}$** when the $\\text{ETC}$ is inactive.",
+      "mnemonic_image": "A giant, spinning wooden propeller that is also connected to a noisy food conveyor belt and a machine that is violently breaking down a tiny, expensive diamond.",
+      "source_ref": "2. The Proton Motive Force and Oxidative Phosphorylation",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of **Oxidative Phosphorylation**?",
+      "back": "The process where the **Proton Motive Force (PMF)** drives the synthesis of $\\text{ATP}$ by allowing protons to flow back into the cell through the $\\text{ATP}$ synthase complex.",
+      "mnemonic_image": "A massive, silver, whirling pinwheel that is powered by a flood of tiny, glowing blue spheres and instantly spits out gold coins.",
+      "source_ref": "2. The Proton Motive Force and Oxidative Phosphorylation",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the role of **Complex I** ($\text{NADH}$ Quinone Oxidoreductase) in the $\\text{ETC}$ and how many $\\text{H}^{+}$ ions does it pump?",
+      "back": "It **initiates the $\\text{ETC}$** by oxidizing $\\text{NADH}$ and $\\text{H}^{+}$, resulting in the pumping of **$4 \\text{H}^{+}$** out of the cell and the transfer of 2 electrons into the chain.",
+      "mnemonic_image": "A massive, screaming, 14-headed metal creature that sucks up a floppy black cord and immediately spits out exactly four small, glowing blue balls.",
+      "source_ref": "3. Core Components of the Electron Transport Chain - Complex I",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Contrast the entry point and function of **Complex II** (Succinate Dehydrogenase) with Complex I, specifically regarding proton pumping.",
+      "back": "Complex II is an **alternative entry point** that oxidizes **succinate** ($\\text{FADH}_2$ enters here) and directly couples the $\\text{TCA}$ cycle to the $\\text{ETC}$. Crucially, **Complex II does not directly pump protons**.",
+      "mnemonic_image": "A silent, flat green stamp (Succinate) pressing a tiny cord into the wall, ignoring the pumping lever and releasing less energy than a neighboring machine.",
+      "source_ref": "3. Core Components of the Electron Transport Chain - Complex II",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "**{{c1::Ubiquinone (Coenzyme Q)}}** is the mobile, hydrophobic carrier that receives electrons from both Complex I and Complex II and transfers them to Complex III.",
+      "cloze_hint": "Mobile carrier between Complex I/II and III",
+      "mnemonic_image": "A small, yellow, waddling cartoon duck carrying two glowing, white balls (electrons) from a messy pool to a giant brick wall.",
+      "source_ref": "3. Core Components of the Electron Transport Chain - Complex III",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the function and location of **Cytochrome C**?",
+      "back": "It is a small, soluble **heme protein** located in the **periplasmic space** (or intermembrane space in eukaryotes) that acts as a crucial **mobile shuttle**, carrying one electron at a time from Complex III to Complex IV.",
+      "mnemonic_image": "A tiny, black-cloaked runner (Cytochrome C) carrying a single, glowing lightbulb across a dark, slimy moat (periplasmic space).",
+      "source_ref": "3. Core Components of the Electron Transport Chain - Cytochrome C",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the function of **Complex IV** (Cytochrome C Oxidase) and what is the final product of its reaction?",
+      "back": "It is the **terminal oxidase** of the aerobic $\\text{ETC}$. It catalyzes the final transfer of electrons to **molecular oxygen ($\text{O}_2$)**, reducing it to form **water ($\text{H}_2\text{O}$)**.",
+      "mnemonic_image": "A massive, shining metal catcher's mitt that grabs a floating, white bubble ($\\text{O}_2$) and violently crushes it, dripping water ($\\text{H}_2\text{O}$) out the bottom.",
+      "source_ref": "3. Core Components of the Electron Transport Chain - Complex IV",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Compare the location of the proton gradient in **Gram-Negative** versus **Gram-Positive** bacteria.",
+      "back": "* **Gram-Negative:** Gradient is established in the **intermembrane space** (between the inner and outer membranes).\n* **Gram-Positive:** Gradient is formed directly across their **single cell membrane**.",
+      "mnemonic_image": "A massive, glowing purple fog trapped between two tall, black walls, contrasted with the same fog pressing against a single, giant, clear window.",
+      "source_ref": "4. Prokaryotic Diversity in Electron Transport - Membrane Organization",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "In anaerobic respiration, the use of alternative terminal electron acceptors with a **{{c1::lower redox potential than $\\text{O}_2$}}** results in a lower overall $\\text{ATP}$ yield compared to aerobic respiration.",
+      "cloze_hint": "Property of alternative electron acceptors that lowers $\\text{ATP}$ yield",
+      "mnemonic_image": "A small, whimpering gray flag planted far below a towering, gold flag, with very few gold coins scattered around it.",
+      "source_ref": "4. Prokaryotic Diversity in Electron Transport - Anaerobic Respiration",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Rank the three core energy strategies (Fermentation, Anaerobic Respiration, Aerobic Respiration) by their approximate $\\text{ATP}$ yield.",
+      "back": "1. **Aerobic Respiration** ($\sim 38 \\text{ ATP}$ - Highest) \n2. **Anaerobic Respiration** ($\sim 10-28 \\text{ ATP}$ - Intermediate)\n3. **Fermentation** ($2 \\text{ ATP}$ - Lowest)",
+      "mnemonic_image": "A massive, shining gold crown, a smaller, tarnished bronze ring, and a tiny, cracked plastic chip, ranked on three different height pedestals.",
+      "source_ref": "4. Prokaryotic Diversity in Electron Transport - Comparative $\\text{ATP}$ Yields",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Contrast the function and structure of the **$\\text{F}_0$ subunit** versus the **$\\text{F}_1$ subunit** of $\\text{ATP}$ Synthase.",
+      "back": "* **$\\text{F}_0$ subunit:** The membrane-spanning **proton channel** (includes the $\\text{C}$-ring), allowing $\\text{H}^{+}$ to flow back into the cell.\n* **$\\text{F}_1$ subunit:** Located in the cytoplasm, it contains the **catalytic sites** ($\\alpha_3\\beta_3$) for $\\text{ATP}$ synthesis.",
+      "mnemonic_image": "A massive, hollow, spinning water pipe ($\\text{F}_0$) that feeds into a separate, round factory ($\\text{F}_1$) containing three workers frantically assembling tiny gold coins.",
+      "source_ref": "5. $\\text{ATP}$ Synthase: The Rotary Nanomotor - Structure",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The $\\text{ATP}$ Synthase mechanism involves the proton flow causing the **{{c1::C-ring proteins}}** in the $\\text{F}_0$ subunit to rotate, which transfers energy to the $\\text{F}_1$ subunit.",
+      "cloze_hint": "Component of F0 that rotates",
+      "mnemonic_image": "Twelve small, screaming blue marbles arranged in a perfect circle that start spinning rapidly, violently shaking a nearby desk.",
+      "source_ref": "5. $\\text{ATP}$ Synthase: The Rotary Nanomotor - Mechanism of Action",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **functional homology** between **$\\text{ATP}$ Synthase** and the **Bacterial Flagellum**?",
+      "back": "Both are **$\\text{PMF}$-driven rotary motors**. $\\text{ATP}$ Synthase converts $\\text{PMF}$ into **chemical energy** ($\\text{ATP}$), while the Flagellum converts $\\text{PMF}$ into **mechanical work** (rotation/motility).",
+      "mnemonic_image": "A small, whirring electric fan (Flagellum) and a small, whirring food blender (ATP Synthase) both powered by the exact same stream of glowing blue energy.",
+      "source_ref": "6. Evolutionary and Functional Homologies - Homology with Bacterial Flagella",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of an **Exoelectrogen** and what unique structure do some use to accomplish their function?",
+      "back": "A class of bacteria capable of transferring electrons generated during metabolism to an **external electron acceptor** outside the cell. They use conductive **pili** (often called **'nanowires'**).",
+      "mnemonic_image": "A giant, gray monster (Exoelectrogen) shooting tiny, glowing wires (nanowires) from its head to touch a metallic battery far away from its body.",
+      "source_ref": "7. Exoelectrogens: External Electron Transport",
+      "tag": "Briefing on the Electron Transport Chain and Bioenergetics"
+    }
+  ]
+}
+{
+  "flashcards": [
+    {
+      "card_type": "Basic",
+      "front": "What is the **most critical stage** for controlling gene expression in **bacteria** and what enzyme is central to this control?",
+      "back": "The most critical stage is **transcription**. The central enzyme is **RNA polymerase (RNAP)**.",
+      "mnemonic_image": "A massive, silver printing press (Transcription) being guarded by a multi-limbed robot with a giant, glowing 'P' on its chest.",
+      "source_ref": "1. Fundamentals of Bacterial Gene Regulation",
+      "tag": "Gene Regulatory Mechanisms in Bacteria and the Lambda Phage Model"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of the **RNA Polymerase (RNAP) Holoenzyme** and what is the role of its $\\sigma$ factor?",
+      "back": "The Holoenzyme is the **Core Enzyme** ($\\alpha_2\\beta\\beta'\\omega$) combined with a **Sigma ($\\sigma$) factor**. The $\\sigma$ factor is **essential for specific initiation**, guiding the holoenzyme to recognize and bind to appropriate promoter sequences.",
+      "mnemonic_image": "A giant, gray, dull factory (Core Enzyme) that can only start working when a small, shining, singing light bulb is screwed into its roof.",
+      "source_ref": "1. Fundamentals of Bacterial Gene Regulation - The Role of RNA Polymerase (RNAP)",
+      "tag": "Gene Regulatory Mechanisms in Bacteria and the Lambda Phage Model"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of a bacterial **Operon** and how is it transcribed and translated?",
+      "back": "Functionally related genes grouped together, which are transcribed onto a single $\\text{mRNA}$ molecule (**polycistronic $\\text{mRNA}$**). Translation is initiated **separately** for each gene on the $\\text{mRNA}$.",
+      "mnemonic_image": "A single, massive sheet of paper (polycistronic mRNA) that contains three different, complete recipes, each one starting with its own title and instructions.",
+      "source_ref": "1. Fundamentals of Bacterial Gene Regulation - Bacterial Promoters and Operons",
+      "tag": "Gene Regulatory Mechanisms in Bacteria and the Lambda Phage Model"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Distinguish between **Positive Control** and **Negative Control** mechanisms of transcriptional regulation.",
+      "back": "* **Positive Control:** Requires the binding of an **ACTIVATOR protein** to a $\\text{DNA}$ site to initiate transcription (Activator turns it ON).\n* **Negative Control:** Involves a **REPRESSOR protein** binding to an operator site, preventing transcription (Repressor turns it OFF).",
+      "mnemonic_image": "A small, smiling blue man (Activator) pushing a giant, red START button, contrasted with a massive, angry green troll (Repressor) sitting on the same button to block it.",
+      "source_ref": "2. Mechanisms of Transcriptional Control",
+      "tag": "Gene Regulatory Mechanisms in Bacteria and the Lambda Phage Model"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "Genes with **{{c1::Constitutive Expression}}** are continuously expressed under normal cellular conditions and provide essential 'housekeeping' functions.",
+      "cloze_hint": "Control type for continuously expressed essential genes",
+      "mnemonic_image": "A tiny, shining silver robot that never stops sweeping the floor, even when the lights are turned off.",
+      "source_ref": "2. Mechanisms of Transcriptional Control",
+      "tag": "Gene Regulatory Mechanisms in Bacteria and the Lambda Phage Model"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **ecological impact** of **Bacteriophages** on Earth's ecosystems?",
+      "back": "Phages outnumber bacteria 10:1; they are responsible for killing $\\sim 50\\%$ of the world's bacteria every 48 hours and facilitate $\\sim 10^{16}$ gene transfer events per second.",
+      "mnemonic_image": "A massive, screaming army of tiny, robotic spiders that are constantly destroying an entire planet made of gray sludge.",
+      "source_ref": "3. The Bacteriophage Lambda Model System - Key Phage Facts",
+      "tag": "Gene Regulatory Mechanisms in Bacteria and the Lambda Phage Model"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Contrast the outcome of the **Lytic Infection** lifecycle versus the **Lysogenic Infection** lifecycle of the lambda phage.",
+      "back": "* **Lytic Infection:** The phage **replicates** and ultimately **lyses (bursts)** the host cell to release progeny.\n* **Lysogenic Infection:** The phage genome **integrates** into the host chromosome and remains **dormant**, replicating passively with the host $\\text{DNA}$.",
+      "mnemonic_image": "A small bomb violently exploding inside a room (Lytic), contrasted with a shiny, tiny worm gently crawling inside a sleeping monster (Lysogenic).",
+      "source_ref": "3. The Bacteriophage Lambda Model System - The Lambda Phage and Its Lifecycle Switch",
+      "tag": "Gene Regulatory Mechanisms in Bacteria and the Lambda Phage Model"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Identify the two competing primary transcription factors that govern the **Genetic Switch** in the lambda phage and the cycle they promote.",
+      "back": "* **cI Repressor** (or Lambda Repressor): Promotes the **lysogenic** state.\n* **Cro** (Control of Repressor): Promotes the **lytic** state.",
+      "mnemonic_image": "A calm, smiling blue wizard (cI) holding a giant, sleeping egg, fighting with a frenzied, screaming red demon (Cro) holding a massive, flashing knife.",
+      "source_ref": "3. The Bacteriophage Lambda Model System - The Genetic Switch",
+      "tag": "Gene Regulatory Mechanisms in Bacteria and the Lambda Phage Model"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What are the two **key competing promoters** in the lambda phage switch and what genes do they drive the expression of?",
+      "back": "* **PR (Promoter Right):** Drives the expression of **lytic cycle genes**, including *cro*.\n* **PRM (Promoter for Repressor Maintenance):** Drives the expression of the **cI gene**, maintaining the lysogenic state.",
+      "mnemonic_image": "A raging, fiery volcano (PR) erupting red lava (lytic genes), competing with a small, peaceful, mossy spring (PRM) flowing with calm, blue water (cI).",
+      "source_ref": "3. The Bacteriophage Lambda Model System - The Genetic Switch",
+      "tag": "Gene Regulatory Mechanisms in Bacteria and the Lambda Phage Model"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Describe the dual function of the **cI repressor** in repressing the lytic cycle and activating the lysogenic cycle.",
+      "back": "1. **Negative Control:** cI binds to the operator (OR), physically **blocking $\\text{RNAP}$ from $\\text{P}_{\text{R}}$**, repressing *cro* and lytic genes.\n2. **Positive Control:** The same $\\text{cI}$ binding event **recruits $\\text{RNAP}$ to the nearby $\\text{P}_{\text{RM}}$** promoter, stimulating its own transcription (*cI*).",
+      "mnemonic_image": "A single, shining blue key that simultaneously locks one giant, fiery red door and opens a second, tiny, peaceful blue door.",
+      "source_ref": "4. The Multifunctional Role of the Lambda (cI) Repressor",
+      "tag": "Gene Regulatory Mechanisms in Bacteria and the Lambda Phage Model"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The $\\text{cI}$ repressor exhibits **{{c1::auto-regulation}}** by controlling its own concentration via a feedback loop at the $\\text{P}_{\text{RM}}$ promoter, with high levels leading to low transcription.",
+      "cloze_hint": "Type of regulation cI uses on its own gene",
+      "mnemonic_image": "A small, muscular man who uses a tiny scale to carefully check his own weight every five minutes, instantly adjusting the size of the dumbbell he lifts.",
+      "source_ref": "4. The Multifunctional Role of the Lambda (cI) Repressor",
+      "tag": "Gene Regulatory Mechanisms in Bacteria and the Lambda Phage Model"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of **Phage Therapy**?",
+      "back": "The use of **bacteriophages** to specifically target and **kill pathogenic bacteria**, harnessing the principles of the **lytic cycle** for clinical application.",
+      "mnemonic_image": "A team of tiny, flying, silver drones (phages) dropping small, metallic bombs on a massive, angry green sludge monster (bacteria).",
+      "source_ref": "5. Clinical Application: Phage Therapy",
+      "tag": "Gene Regulatory Mechanisms in Bacteria and the Lambda Phage Model"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The successful phage therapy case for Tom Patterson involved targeting a multi-drug resistant strain of **{{c1::Acinetobacter}}**.",
+      "cloze_hint": "Bacterial pathogen targeted in the case study",
+      "mnemonic_image": "A massive, screaming, silver water tank that is completely covered in tiny, unopenable locks.",
+      "source_ref": "5. Clinical Application: Phage Therapy - Case Study",
+      "tag": "Gene Regulatory Mechanisms in Bacteria and the Lambda Phage Model"
+    }
+  ]
+}
+{
+  "flashcards": [
+    {
+      "card_type": "Basic",
+      "front": "What are the three critical regulatory functions performed by the **Lambda Repressor (cI)** in the lysogenic state?",
+      "back": "1. **Represses the Lytic Cycle** (blocks lytic gene transcription).\n2. **Activates the Lysogenic Cycle** (promotes genome maintenance).\n3. **Auto-regulates its own levels** (maintains stability).",
+      "mnemonic_image": "A tiny, shining blue magnet that simultaneously pushes away a flaming red axe, pulls a small, green tree up a hill, and constantly checks its own strength in a mirror.",
+      "source_ref": "1. The Lambda Phage Lifecycle: A Model of Genetic Switching",
+      "tag": "Gene Regulatory Mechanisms in Bacteria: A Synthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **primary molecular trigger** that activates a lysogenic phage to enter the **lytic cycle**?",
+      "back": "Host **DNA damage**, which activates the $\\text{RecA}$ protein, leading to the **cleavage** of the Lambda repressor protein.",
+      "mnemonic_image": "A small, delicate wooden bridge that is instantly smashed by a screaming, gray bulldozer (DNA damage), causing a tiny, blue-winged figure to be sliced in half by the impact.",
+      "source_ref": "1. The Lambda Phage Lifecycle: A Model of Genetic Switching - Molecular Mechanism of Activation",
+      "tag": "Gene Regulatory Mechanisms in Bacteria: A Synthesis"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The primary sigma factor, **{{c1::$\\sigma^{70}$}}**, known as the **Housekeeping Sigma Factor**, transcribes the majority of genes during active bacterial growth.",
+      "cloze_hint": "Primary sigma factor in *E. coli*",
+      "mnemonic_image": "A massive, silver key that opens 70 different doors simultaneously in a giant, bustling, brightly lit office building.",
+      "source_ref": "2. Mechanisms of Gene Expression Control - Housekeeping Sigma Factor",
+      "tag": "Gene Regulatory Mechanisms in Bacteria: A Synthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of a **Regulon** in bacterial gene regulation?",
+      "back": "A set of **multiple, often physically separate, operons** that are all controlled by a **single regulatory protein** (either an activator or an inhibitor).",
+      "mnemonic_image": "A massive, shimmering crown that simultaneously commands 10 different, scattered armies of tiny, wooden soldiers across a vast map.",
+      "source_ref": "2. Mechanisms of Gene Expression Control - Coordinated Regulation",
+      "tag": "Gene Regulatory Mechanisms in Bacteria: A Synthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Describe the function of the $\\sigma^{32}$ ($rpoH$) and $\\sigma^{28}$ ($fliA$) alternative sigma factors in *E. coli*.",
+      "back": "* **$\\sigma^{32}$ ($rpoH$):** Controls the **Heat-shock response**.\n* **$\\sigma^{28}$ ($fliA$):** Controls the transcription of **flagellar and chemotaxis genes**.",
+      "mnemonic_image": "A massive, shimmering towel wiping the sweat from a tiny, screaming runner who is being constantly blasted by a hairdryer, next to a tiny, spinning propeller.",
+      "source_ref": "2. Mechanisms of Gene Expression Control - Alternative Sigma Factors (Table)",
+      "tag": "Gene Regulatory Mechanisms in Bacteria: A Synthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What two sequences are required for **bacterial translation initiation** on an $\\text{mRNA}$ molecule?",
+      "back": "1. The **Shine-Dalgarno sequence** (ribosome binding site).\n2. A **start codon**.",
+      "mnemonic_image": "A tiny, humming spaceship (ribosome) that can only dock on a giant landing pad (Shine-Dalgarno) that is lit up by a single, massive green light (Start Codon).",
+      "source_ref": "2. Mechanisms of Gene Expression Control - Bacterial Translation",
+      "tag": "Gene Regulatory Mechanisms in Bacteria: A Synthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What does the phrase **'Coupling of Transcription and Translation'** refer to in bacteria?",
+      "back": "Translation often **begins before transcription is complete** and is frequently required for transcription to continue efficiently.",
+      "mnemonic_image": "A small, buzzing factory that starts stamping tiny product boxes the very moment the conveyor belt is halfway through printing the first shipping label.",
+      "source_ref": "2. Mechanisms of Gene Expression Control - Coupling of Transcription and Translation",
+      "tag": "Gene Regulatory Mechanisms in Bacteria: A Synthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of a **Riboswitch**?",
+      "back": "Structured regions within an $\\text{mRNA}$ that can **bind to small molecules**, changing the $\\text{RNA}$'s conformation to either **permit or block translation**.",
+      "mnemonic_image": "A tiny, complex origami sculpture in a river (mRNA) that instantly changes shape when a small, glowing bead lands on it, either creating a bridge or a wall.",
+      "source_ref": "2. Mechanisms of Gene Expression Control - Riboswitches",
+      "tag": "Gene Regulatory Mechanisms in Bacteria: A Synthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of the **Transcriptome**?",
+      "back": "The complete set of **RNA molecules** expressed in a cell at a **specific moment**.",
+      "mnemonic_image": "A massive, detailed time-lapse photograph of a thousand glowing, intricate blueprints that are constantly being scribbled on and erased.",
+      "source_ref": "3. Analyzing Gene Regulation via Transcriptomics",
+      "tag": "Gene Regulatory Mechanisms in Bacteria: A Synthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Identify three key experimental applications of **Bulk RNA-Seq** in bacteria.",
+      "back": "1. Monitoring **bacterial response to an antibiotic**.\n2. Analyzing bacterial response to **growth within an animal host**.\n3. Identifying bacterial genes expressed during **host colonization or infection**.",
+      "mnemonic_image": "A massive, screaming computer screen displaying three separate, rapidly changing graphs of a virus fighting medicine, a fish swimming inside a stomach, and a boat landing on a tiny island.",
+      "source_ref": "3. Analyzing Gene Regulation via Transcriptomics - Bulk RNA-Seq: Applications and Insights",
+      "tag": "Gene Regulatory Mechanisms in Bacteria: A Synthesis"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The main limitation of **Bulk RNA-Seq** that Single-Cell RNA-seq overcomes is that it **{{c1::averages the response across an entire population}}**, losing information about cell-to-cell variability.",
+      "cloze_hint": "Limitation of bulk RNA-Seq",
+      "mnemonic_image": "A giant, gray, featureless face that is actually made up of a thousand tiny, distinct, screaming mouths.",
+      "source_ref": "3. Analyzing Gene Regulation via Transcriptomics - The Advance of Single-Cell Sequencing",
+      "tag": "Gene Regulatory Mechanisms in Bacteria: A Synthesis"
+    },
+    {
+      "card_type": "Basic",
+      "front": "How is **Single-Cell RNA-seq** applied to lysogenic phages in a bacterial population?",
+      "back": "It can **identify the specific subpopulation of cells** in which the phage has been activated, as these cells show a unique transcriptional signature (including the host's $\\text{DNA}$ damage response).",
+      "mnemonic_image": "A tiny, glowing red laser beam that instantly finds the single, exploding crystal ball in a massive room full of thousands of identical, still crystal balls.",
+      "source_ref": "3. Analyzing Gene Regulation via Transcriptomics - Prokaryotic Applications",
+      "tag": "Gene Regulatory Mechanisms in Bacteria: A Synthesis"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The **{{c1::SOS Regulon}}** is a $\\text{DNA}$ damage-activated regulon that involves the $\\text{RecA}$ protein cleaving a repressor protein, a mechanism co-opted by the lambda phage.",
+      "cloze_hint": "Regulon activated by $\\text{DNA}$ damage",
+      "mnemonic_image": "A massive, flashing red beacon that instantly triggers a small, green alarm to slice a massive, angry black monster in half.",
+      "source_ref": "2. Mechanisms of Gene Expression Control - The $\\text{SOS}$ Regulon",
+      "tag": "Gene Regulatory Mechanisms in Bacteria: A Synthesis"
+    }
+  ]
+}
+{
+  "flashcards": [
+    {
+      "card_type": "Basic",
+      "front": "What bacterial genome was first sequenced in 1995, and how has the **cost** and **throughput** changed since then?",
+      "back": "The first was **_Haemophilus influenzae_**. The cost has dropped from **~$\\$1.6$ million** to **~$\\$90$** per genome, and sequencing capacity has increased to **5,000 genomes in under two days**.",
+      "mnemonic_image": "A tiny, weak, gray mouse (H. influenzae) being examined by a massive, million-dollar scanner, contrasted with the mouse being instantly scanned by a $90$ smartphone camera.",
+      "source_ref": "1. The Evolution of Bacterial Genome Sequencing",
+      "tag": "Bacterial Genetics and Genomics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Contrast **Sanger Sequencing** with **Illumina (Next-Gen)** sequencing technology based on **read length** and **throughput**.",
+      "back": "* **Sanger:** Reads up to **1000 bp**; **low-throughput** (but $99.99\\%$ accurate).\n* **Illumina:** Reads up to **200 bp** (shorter); **massive-throughput** (e.g., $\\sim 10,000$ genomes/run).",
+      "mnemonic_image": "A massive, slow, elegant, but very long golden rope, contrasted with a million tiny, fast, but short blue plastic strips.",
+      "source_ref": "1.2. Key Sequencing Technologies (Table)",
+      "tag": "Bacterial Genetics and Genomics"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "**{{c1::Long-Read Sequencing}}** is a third-generation technology that generates unique electrical signatures as $\\text{DNA}$ moves through a pore, producing reads up to $100 \\text{ kb}$.",
+      "cloze_hint": "Sequencing technology that uses electrical signatures and a pore",
+      "mnemonic_image": "A very long, single silk thread slowly being fed through a tiny, glowing, silver eye of a needle.",
+      "source_ref": "1.2. Key Sequencing Technologies (Table)",
+      "tag": "Bacterial Genetics and Genomics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Distinguish between **Reference-Based Assembly** and **De Novo Assembly** methods for reconstructing a bacterial genome.",
+      "back": "* **Reference-Based:** Reads are aligned to a **known, pre-existing** genome (used to track known changes or confirm clones).\n* **De Novo:** Reads are pieced together **without a reference** template (used for new strains or emerging pathogens).",
+      "mnemonic_image": "A child sorting LEGOs by matching them to a picture on the box, contrasted with the same child building a new LEGO tower without any instructions or picture.",
+      "source_ref": "1.3. Genome Assembly Methods",
+      "tag": "Bacterial Genetics and Genomics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What are the three reasons why bacterial genomes exhibit **High Gene Density** compared to human $\\text{DNA}$?",
+      "back": "1. Bacterial genes **lack introns**.\n2. Genes are **smaller on average**.\n3. There is **very little space** between neighboring genes.",
+      "mnemonic_image": "A massive, perfectly packed suitcase where everything is tiny, perfectly folded, and there is absolutely no air or space left inside.",
+      "source_ref": "2.1. Key Characteristics of Bacterial Genomes",
+      "tag": "Bacterial Genetics and Genomics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "How does a bacterium's **Genome Size** reflect its **environmental niche**? Use an example organism.",
+      "back": "Smaller genomes (e.g., **_Mycoplasma genitalium_** at $580 \\text{ kbp}$) reflect a **specialized life** on host cells, while larger genomes (e.g., **_Sorangium cellulosum_** at $14 \\text{ Mb}$) reflect a **complex environment** (soil) requiring more adaptation genes.",
+      "mnemonic_image": "A tiny, pale mouse living in a sterile glass box, contrasted with a massive, brown, shaggy bear living in a huge, overgrown jungle.",
+      "source_ref": "2.1. Key Characteristics of Bacterial Genomes - Size Variation and Environment",
+      "tag": "Bacterial Genetics and Genomics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "In the context of **Transcription and Translation Coupling**, what is the function of the **Rho protein**?",
+      "back": "The Rho protein **terminates transcription** by recognizing and binding to **'naked' $\\text{RNA}$** ($\\text{RNA}$ not being translated by ribosomes), disassociating the polymerase from the $\\text{DNA}$.",
+      "mnemonic_image": "A massive, screaming, silver bird (Rho) that swoops down and violently rips a piece of paper from a printer when it sees that no one is reading it.",
+      "source_ref": "2.1. Key Characteristics of Bacterial Genomes - Transcription and Translation Coupling",
+      "tag": "Bacterial Genetics and Genomics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of the **Pan-Genome**, and how is it conceptually divided?",
+      "back": "The **collection of all genes** found within a bacterial species. It is divided into the **Core Genome** and the **Accessory Genome**.",
+      "mnemonic_image": "A massive, shining, interconnected globe where one half glows bright red (Core) and the other half is covered in flickering, scattered blue lights (Accessory).",
+      "source_ref": "3. The Pan-Genome: Core vs. Accessory Genes",
+      "tag": "Bacterial Genetics and Genomics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Contrast the **Core Genome** with the **Accessory Genome** in terms of gene function and transfer.",
+      "back": "* **Core Genome:** Genes **shared by all strains**; encode **essential cellular functions** (e.g., replication, core metabolism).\n* **Accessory Genome:** Genes present in **some but not all strains**; encode **selective advantages** (e.g., virulence, resistance), often carried on **mobile genetic elements** ($\\text{MGEs}$).",
+      "mnemonic_image": "A small, shining gold box that is bolted down and always contains a map, contrasted with a massive pile of detachable, colorful wings and armor that are constantly being shuffled and traded.",
+      "source_ref": "3. The Pan-Genome: Core vs. Accessory Genes",
+      "tag": "Bacterial Genetics and Genomics"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The Accessory Genome is frequently carried on **{{c1::mobile genetic elements (MGEs)}}** such as bacteriophages, pathogenicity islands, and transposons, facilitating horizontal transfer.",
+      "cloze_hint": "Genetic structures that carry accessory genes",
+      "mnemonic_image": "A massive, screaming caravan of tiny ships (MGEs) carrying gold (accessory genes) between two different, distant cities.",
+      "source_ref": "3. The Pan-Genome: Core vs. Accessory Genes - Accessory Genome",
+      "tag": "Bacterial Genetics and Genomics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** of a **Single Nucleotide Polymorphism (SNP)**, and what is its primary use in genomics?",
+      "back": "A change to a **single nucleotide** in the $\\text{DNA}$ sequence, arising from $\\text{DNA}$ replication errors. Their primary use is in **phylogenetics** to reconstruct evolutionary relationships and estimate divergence time.",
+      "mnemonic_image": "A long, silver, perfectly straight zipper with one single, tiny, red thread tied into it. This zipper is then used as a map to build a complex family tree.",
+      "source_ref": "4.1. Single Nucleotide Polymorphisms (SNPs)",
+      "tag": "Bacterial Genetics and Genomics"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "In the _Klebsiella pneumoniae_ outbreak at $\\text{NIH}$, **{{c1::Whole-Genome Sequencing (WGS)}}** uncovered the transmission route, which traditional epidemiological surveys had failed to determine.",
+      "cloze_hint": "Sequencing technology used to resolve the outbreak",
+      "mnemonic_image": "A massive, shining, all-seeing eye that instantly reveals a complicated, hidden network of tunnels beneath a city.",
+      "source_ref": "5.2. The Genomic Solution",
+      "tag": "Bacterial Genetics and Genomics"
+    },
+    {
+      "card_type": "Basic",
+      "front": "How did $\\text{SNP}$ analysis specifically resolve the **_Klebsiella pneumoniae_** outbreak at $\\text{NIH}$?",
+      "back": "By comparing $\\text{SNPs}$, investigators determined that all cases originated from the **single index patient**, and the transmission was linked to the **contamination of a ventilator**.",
+      "mnemonic_image": "A single, tiny red dot on a map that connects, via tiny red threads, to every infected patient, with the center thread leading directly to a massive, fog-covered breathing machine.",
+      "source_ref": "5.2. The Genomic Solution",
+      "tag": "Bacterial Genetics and Genomics"
+    }
+  ]
+}
+{
+  "flashcards": [
+    {
+      "card_type": "Basic",
+      "front": "Distinguish between **Lamarckian Evolution** and **Darwinian Evolution** regarding the origin of adaptive traits.",
+      "back": "* **Lamarckian:** Traits are actively **acquired** by an organism *in response* to the environment and then inherited.\n* **Darwinian:** Adaptive traits **pre-exist** as random variation, and the environment **selects** the advantageous traits.",
+      "mnemonic_image": "A small, muscular man angrily stretching his neck out to reach a tall tree, contrasted with a tall, happy man being easily chosen from a lineup by a judge.",
+      "source_ref": "1. Foundational Theories: Lamarckian vs. Darwinian Evolution",
+      "tag": "Bacterial Mutation, Recombination, and Evolution"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What was the **Purpose** and **Key Conclusion** of the **Luria-Delbruck Fluctuation Test**?",
+      "back": "Purpose: To test if mutations conferring resistance to $\\text{T1}$ phage were **pre-existing** or **induced**.\nConclusion: Mutations arise **randomly and spontaneously** during bacterial growth, before exposure (Darwinian evolution).",
+      "mnemonic_image": "A massive, unpredictable jackpot machine that randomly spits out huge piles of gold (jackpot) or nothing at all, proving the coins were already inside.",
+      "source_ref": "2. Experimental Evidence for Darwinian Evolution in Bacteria - The Luria-Delbruck Fluctuation Test (1943)",
+      "tag": "Bacterial Mutation, Recombination, and Evolution"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The **{{c1::Lederberg Replica Plating Experiment}}** directly proved Darwinian evolution by showing that colonies resistant to streptomycin grew in the exact same location on a selective plate as their parent colonies on the non-selective master plate.",
+      "cloze_hint": "Experiment that used velvet to prove pre-existing resistance",
+      "mnemonic_image": "A soft, purple velvet cloth magically photocopying a perfect map of tiny, glowing red dots onto a new, sterile, white surface.",
+      "source_ref": "2. Experimental Evidence for Darwinian Evolution in Bacteria - The Lederberg Replica Plating Experiment (1952)",
+      "tag": "Bacterial Mutation, Recombination, and Evolution"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **mechanism of resistance** to $\\text{T1}$ bacteriophage infection?",
+      "back": "The $\\text{T1}$ phage must bind to the **FhuA surface protein**. Resistance is conferred by **mutations in the FhuA gene** that alter the protein's structure, preventing phage binding.",
+      "mnemonic_image": "A small, silver key (T1 phage) that attempts to unlock a giant, red, oddly-shaped door (FhuA), but cannot because the keyhole is jammed and twisted.",
+      "source_ref": "3. Mechanisms of Bacterial Resistance - Phage Resistance",
+      "tag": "Bacterial Mutation, Recombination, and Evolution"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **mechanism of resistance** to the antibiotic **Streptomycin**?",
+      "back": "A single mutation in the **RPSL gene**, which codes for a component of the **$30\\text{S}$ ribosomal subunit**, prevents streptomycin from disrupting bacterial protein synthesis.",
+      "mnemonic_image": "A tiny, blue, singing wrench (Streptomycin) that tries to jam a small, complex gear (30S subunit), but the gear is slightly warped and the wrench cannot fit.",
+      "source_ref": "3. Mechanisms of Bacterial Resistance - Antibiotic Resistance: Streptomycin",
+      "tag": "Bacterial Mutation, Recombination, and Evolution"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Contrast the two main sources of **Genetic Diversity** in prokaryotes.",
+      "back": "* **Spontaneous Mutations:** Random errors in $\\text{DNA}$ replication that create new alleles.\n* **Recombination:** Acquisition of new genes/$\\text{DNA}$ sequences from other organisms via **Horizontal Gene Transfer (HGT)**.",
+      "mnemonic_image": "A tiny, gray printing press (Mutation) making typos on a continuous scroll, contrasted with a massive, booming air duct (Recombination) dropping entire new books onto the scroll.",
+      "source_ref": "4. Sources of Genetic Diversity in Bacteria",
+      "tag": "Bacterial Mutation, Recombination, and Evolution"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What are the **three major routes** of **Horizontal Gene Transfer (HGT)**?",
+      "back": "1. **Transduction:** Transfer via a **bacteriophage**.\n2. **Conjugation:** Transfer via **direct cell-to-cell contact** (often a plasmid).\n3. **Transformation:** Recipient cell **takes up free $\\text{DNA}$** from the environment.",
+      "mnemonic_image": "A tiny syringe (Transduction), a small, glowing kiss (Conjugation), and a massive, gaping mouth (Transformation).",
+      "source_ref": "4. Horizontal Gene Transfer (HGT)",
+      "tag": "Bacterial Mutation, Recombination, and Evolution"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The **{{c1::Griffith Experiment}}** first demonstrated the $\\text{'transforming principle'}$ by showing that heat-killed pathogenic bacteria could make living non-pathogenic bacteria virulent.",
+      "cloze_hint": "1928 experiment that showed transformation in S. pneumoniae",
+      "mnemonic_image": "A pile of glowing, dead, smooth rocks that, when touched, magically turn a pile of dull, rough rocks into screaming, violent monsters.",
+      "source_ref": "5. The Discovery and Mechanism of Transformation",
+      "tag": "Bacterial Mutation, Recombination, and Evolution"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The **{{c1::Avery Experiment}}** in 1944 systematically proved that the 'transforming principle' discovered by Griffith was **DNA**.",
+      "cloze_hint": "Experiment that proved DNA was the transforming substance",
+      "mnemonic_image": "A large, shining, silver stamp with the letters 'D-N-A' being violently pressed onto an old, mysterious scroll.",
+      "source_ref": "5. The Discovery and Mechanism of Transformation",
+      "tag": "Bacterial Mutation, Recombination, and Evolution"
+    },
+    {
+      "card_type": "Basic",
+      "front": "How does the **integration of foreign DNA** differ between prokaryotes and eukaryotes during recombination?",
+      "back": "In prokaryotes (bacteria), integration occurs via a **double crossover event** that swaps a segment of the host chromosome with the new $\\text{DNA}$. This differs from the single crossover event common in eukaryotes.",
+      "mnemonic_image": "A long, red rope that is tied to a blue rope in two separate places (double crossover) to completely swap a middle segment, versus a single knot.",
+      "source_ref": "5. The Discovery and Mechanism of Transformation - Integration",
+      "tag": "Bacterial Mutation, Recombination, and Evolution"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The **{{c1::Long-Term Evolution Experiment (LTEE)}}**, started in 1988 with *E. coli*, has surpassed $80,000$ generations and allows researchers to directly observe and analyze the genetic basis of long-term adaptation.",
+      "cloze_hint": "Ongoing evolution experiment since 1988",
+      "mnemonic_image": "A giant, glass, sealed hourglass that is constantly flipping over, with tiny, identical bugs swimming in the sand.",
+      "source_ref": "6. Modern Perspectives on Bacterial Evolution - The Long-Term Evolution Experiment (LTEE)",
+      "tag": "Bacterial Mutation, Recombination, and Evolution"
+    }
+  ]
+}
+{
+  "flashcards": [
+    {
+      "card_type": "Basic",
+      "front": "What are the three stages of **Evolutionary Trajectory** a bacterial pathogen follows within a host environment?",
+      "back": "1. **Initial Colonization** (establishment).\n2. **Adaptive Mutation** (spreads, selective advantages arise).\n3. **Recombination** (HGT with a second strain creates new genotypes).",
+      "mnemonic_image": "A small, silver fish that first sits still, then grows tiny, sharp teeth and starts swimming to new pools, and finally merges with a different, muscular fish to form a new monster.",
+      "source_ref": "1. The Evolutionary Trajectory of Bacterial Pathogens",
+      "tag": "Horizontal Gene Transfer in Bacterial Evolution and Pathogenicity"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Distinguish between **Generalized Transduction** and **Specialized Transduction**.",
+      "back": "* **Generalized:** Occurs during the **lytic cycle**; **random** host DNA fragments are packaged into phage particles.\n* **Specialized:** Occurs via **imprecise excision of a prophage** (integrated phage) from a **specific site**, packaging adjacent bacterial genes.",
+      "mnemonic_image": "A massive, silver shovel randomly scooping up dirt and rocks, contrasted with a small, specialized laser cutter precisely cutting a fence post along with the single wire next to it.",
+      "source_ref": "2.1. Transduction: Phage-Mediated Gene Transfer",
+      "tag": "Horizontal Gene Transfer in Bacterial Evolution and Pathogenicity"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is an **Hfr (High-Frequency Recombinant) cell**, and what is its unique role in **Conjugation**?",
+      "back": "An Hfr cell is a bacterium where a **conjugative plasmid has integrated** directly into the host chromosome. When conjugating, it transfers its **entire chromosome** (not just the plasmid) to the recipient cell.",
+      "mnemonic_image": "A tiny, flying saucer (plasmid) that crash-lands and welds itself into the side of a massive, long train, which then starts transferring its entire length of cars to another train.",
+      "source_ref": "2.2. Conjugation: Plasmid-Mediated Gene Transfer",
+      "tag": "Horizontal Gene Transfer in Bacterial Evolution and Pathogenicity"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is **Lysogenic Conversion**, and how does it relate to the creation of **virulent pathogens**?",
+      "back": "It occurs when a **bacteriophage integrates** its genome (as a prophage) into a host, and that prophage carries **virulence factor genes** (e.g., toxins), thus converting a previously non-virulent bacterium into a virulent strain.",
+      "mnemonic_image": "A small, harmless puppy that suddenly gets a tiny, glowing black collar (prophage) and instantly grows massive, dripping fangs.",
+      "source_ref": "3.1. Lysogenic Conversion",
+      "tag": "Horizontal Gene Transfer in Bacterial Evolution and Pathogenicity"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "Methicillin resistance in **MRSA** is encoded by the mobile genetic element known as a chromosomal island, specifically **{{c1::SCCmec}}**.",
+      "cloze_hint": "Mobile genetic element conferring Methicillin resistance",
+      "mnemonic_image": "A massive, shining, metallic arm that is specifically bolted onto a tiny, gold robot.",
+      "source_ref": "3.3. Case Study: Methicillin-Resistant Staphylococcus aureus (MRSA)",
+      "tag": "Horizontal Gene Transfer in Bacterial Evolution and Pathogenicity"
+    },
+    {
+      "card_type": "Basic",
+      "front": "How was **Vancomycin Resistance** transferred to $\\text{S. aureus}$ (VRSA) in the 2002 case study?",
+      "back": "The patient was co-infected with a vancomycin-resistant strain of **_Enterococcus_**. The resistance genes were transferred to $\\text{S. aureus}$ on a **conjugative plasmid**.",
+      "mnemonic_image": "A tiny, smiling green monster (Enterococcus) handing a small, shining gold box (resistance genes) to a large, angry red monster (S. aureus) via a long, glowing rope.",
+      "source_ref": "3.4. Case Study: Vancomycin-Resistant S. aureus (VRSA)",
+      "tag": "Horizontal Gene Transfer in Bacterial Evolution and Pathogenicity"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** and **function** of **Restriction-Modification (RM) Systems** in bacterial defense?",
+      "back": "A primitive immune defense against foreign $\\text{DNA}$. It consists of a **restriction endonuclease** (cleaves foreign $\\text{DNA}$) and a **methyltransferase** (modifies host $\\text{DNA}$ to protect it from cleavage).",
+      "mnemonic_image": "A massive, shining, silver pair of scissors (endonuclease) that is prevented from cutting its owner's clothing because a small, golden sewing machine (methyltransferase) has stitched tiny protectors onto the fabric.",
+      "source_ref": "4.1. Innate Immunity - Restriction-Modification (RM) Systems",
+      "tag": "Horizontal Gene Transfer in Bacterial Evolution and Pathogenicity"
+    },
+    {
+      "card_type": "Basic",
+      "front": "What is the **Key Definition** and purpose of the **CRISPR-Cas System**?",
+      "back": "A sophisticated, **adaptive immune system** in bacteria that creates a **genetic memory** of past viral infections to protect the cell against future attacks by the same viruses/phages.",
+      "mnemonic_image": "A small, metallic, three-fingered hand (Cas) that instantly grabs a piece of every attacking enemy (phage $\\text{DNA}$) and stores it in a massive, spiral-bound journal.",
+      "source_ref": "4.2. Adaptive Immunity: The CRISPR-Cas System",
+      "tag": "Horizontal Gene Transfer in Bacterial Evolution and Pathogenicity"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Contrast the two phases of the **CRISPR-Cas System**.",
+      "back": "* **Phase 1 (Immunization):** Cas proteins **capture** phage $\\text{DNA}$ and integrate it as a **spacer** into the CRISPR array (memory formation).\n* **Phase 2 (Targeting):** The array is transcribed into **crRNA guides** that complex with Cas nucleases to **cleave and destroy** the returning phage $\\text{DNA}$.",
+      "mnemonic_image": "A tiny photographer snapping a picture of a monster and taping it into a memory book, contrasted with that same memory book immediately turning into a laser-guided missile when the monster returns.",
+      "source_ref": "4.2. Adaptive Immunity: The CRISPR-Cas System",
+      "tag": "Horizontal Gene Transfer in Bacterial Evolution and Pathogenicity"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "The $\\text{CRISPR}$ system has a dual function, not only protecting against phage infection but also actively preventing **{{c1::lysogenization}}** by targeting and destroying integrating phages.",
+      "cloze_hint": "Phage cycle prevented by CRISPR",
+      "mnemonic_image": "A giant, invisible force field that prevents a small, sleeping egg from touching a massive, shining wall.",
+      "source_ref": "4.2. Adaptive Immunity: The CRISPR-Cas System",
+      "tag": "Horizontal Gene Transfer in Bacterial Evolution and Pathogenicity"
+    },
+    {
+      "card_type": "Basic",
+      "front": "Identify three innate immune defense mechanisms bacteria use to **Prevent Phage Binding**.",
+      "back": "1. **Mutate phage receptors**.\n2. **Physically block receptors** with capsules.\n3. **Sequester phages** using outer membrane vesicles (OMVs).",
+      "mnemonic_image": "A locked door with a twisted keyhole, a massive, soft blanket covering the door, and a tiny, hovering drone flying away with the key.",
+      "source_ref": "4.1. Innate Immunity - Preventing Phage Binding",
+      "tag": "Horizontal Gene Transfer in Bacterial Evolution and Pathogenicity"
+    },
+    {
+      "card_type": "Cloze",
+      "cloze_text": "**{{c1::Transduction}}** involves the transfer of bacterial $\\text{DNA}$ from one bacterium to another by a bacteriophage.",
+      "cloze_hint": "HGT mechanism mediated by a phage",
+      "mnemonic_image": "A tiny, silver syringe (phage) injecting a single, glowing red marble (DNA) into a green balloon.",
+      "source_ref": "2.1. Transduction: Phage-Mediated Gene Transfer",
+      "tag": "Horizontal Gene Transfer in Bacterial Evolution and Pathogenicity"
+    }
+  ]
+}
